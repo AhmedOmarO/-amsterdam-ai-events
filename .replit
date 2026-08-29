@@ -1,5 +1,0 @@
-run = "node server.js"
-entrypoint = "server.js"
-
-[deployment]
-deploymentTarget = "web"

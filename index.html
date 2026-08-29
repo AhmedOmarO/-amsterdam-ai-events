@@ -7,7 +7,7 @@
 <style>
 :root{--ink:#0d151d;--paper:#f5f1e8;--lime:#b7f400;--blue:#2968ff;--muted:#59616a;--line:#cbc6bb}
 *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.5 Arial,sans-serif}a{color:inherit}
-header{height:76px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;padding:0 max(5vw,24px);position:sticky;top:0;background:#f5f1e8ee;backdrop-filter:blur(12px);z-index:5}
+header{min-height:76px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;gap:18px;padding:0 max(5vw,24px);position:sticky;top:0;background:#f5f1e8ee;backdrop-filter:blur(12px);z-index:5}
 .logo{font-size:25px;font-weight:900;text-decoration:none}.logo span{color:var(--blue)}nav{display:flex;gap:28px;align-items:center}.button{display:inline-flex;align-items:center;justify-content:center;padding:12px 19px;border:1px solid var(--ink);border-radius:999px;text-decoration:none;font-weight:700;background:transparent}.button.dark{background:var(--ink);color:white}
 .hero{min-height:570px;padding:90px max(7vw,28px) 70px;position:relative;overflow:hidden}.eyebrow{font-weight:800;letter-spacing:3px;font-size:13px}.eyebrow:before{content:"";display:inline-block;width:11px;height:11px;background:var(--lime);border-radius:50%;margin-right:10px;box-shadow:0 0 0 6px #dff6a1}
 h1{font-size:clamp(66px,10vw,150px);line-height:.82;letter-spacing:-8px;margin:40px 0 42px;max-width:1050px}h1 em{font-style:normal;color:var(--blue)}.lead{font-size:22px;color:var(--muted);max-width:700px}.hero-actions{display:flex;gap:16px;margin-top:38px}
@@ -16,15 +16,37 @@ main{padding:70px max(7vw,28px)}h2{font-size:clamp(38px,5vw,70px);line-height:1;
 .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.card{border:1px solid var(--line);background:#faf8f2;padding:25px;display:flex;flex-direction:column;min-height:270px}.meta{display:flex;gap:9px;flex-wrap:wrap}.tag{font-size:12px;font-weight:800;letter-spacing:1px;text-transform:uppercase;background:#e8e4da;padding:5px 8px}.card h3{font-size:27px;line-height:1.1;margin:20px 0 12px}.card p{color:var(--muted);margin:0 0 22px}.card .actions{margin-top:auto;display:flex;gap:12px}.card .actions a{font-weight:750}
 .submit{margin-top:70px;background:var(--ink);color:white;padding:45px;display:flex;justify-content:space-between;gap:30px;align-items:center}.submit h2{font-size:42px;margin:0 0 10px}.submit p{color:#bbc1c6;margin:0;max-width:650px}.submit .button{border-color:white}
 footer{padding:35px max(7vw,28px);border-top:1px solid var(--line);color:var(--muted)}
-@media(max-width:850px){nav>a:not(.button){display:none}.orbit,.dateball{display:none}.hero{min-height:auto;padding-top:65px}h1{letter-spacing:-4px}.grid{grid-template-columns:1fr}.submit{align-items:flex-start;flex-direction:column}}
+@media(max-width:850px){
+nav>a:not(.button){display:none}
+header{min-height:66px;padding:10px 16px;align-items:flex-start;flex-direction:column}
+nav{width:100%;justify-content:space-between;gap:10px}
+nav .button{display:none}
+.orbit,.dateball{display:none}
+.hero{min-height:auto;padding:42px 18px 52px}
+h1{letter-spacing:-4px;font-size:clamp(40px,13vw,62px);line-height:.92;margin:22px 0 22px;max-width:12ch}
+.lead{font-size:18px;max-width:none}
+.hero-actions{flex-direction:column;align-items:stretch;gap:10px;margin-top:24px}
+.hero-actions .button{width:100%;max-width:none;padding:14px 18px;font-size:15px;white-space:normal;line-height:1.2}
+main{padding:46px 18px}
+h2{font-size:clamp(30px,8vw,44px);margin-bottom:22px}
+.filters{gap:8px;margin-bottom:22px}
+.filter{padding:8px 12px;font-size:13px}
+.grid{grid-template-columns:1fr}
+.card{padding:20px}
+.card h3{font-size:23px}
+.submit{align-items:flex-start;flex-direction:column;padding:26px 20px;margin-top:52px}
+.submit h2{font-size:30px}
+.submit p{font-size:16px}
+footer{padding:24px 18px 28px}
+}
 </style>
 </head>
 <body>
 <header><a class="logo" href="#">AMS/<span>AI</span></a><nav><a href="#events">Events</a><a href="#about">About</a><a class="button dark" href="https://calendar.google.com/calendar/ical/5c89273b0d732c5351c701035bad985e22fa4a74406f5c9cb461a8f2ae56cc89%40group.calendar.google.com/public/basic.ics">Subscribe in Google Calendar</a></nav></header>
-<section class="hero"><div class="eyebrow">CURATED IN AMSTERDAM · UTRECHT · ONLINE</div><h1>The sharp edge of<br><em>data & AI.</em></h1><p class="lead">A focused calendar for builders, researchers, and data people. Technical events, useful rooms, zero filler.</p><div class="hero-actions"><a class="button dark" href="#events">Explore events</a><a class="button" href="https://calendar.google.com/calendar/embed?src=5c89273b0d732c5351c701035bad985e22fa4a74406f5c9cb461a8f2ae56cc89%40group.calendar.google.com&ctz=Europe%2FAmsterdam" target="_blank" rel="noopener">Open calendar</a><a class="button" href="https://calendar.google.com/calendar/ical/5c89273b0d732c5351c701035bad985e22fa4a74406f5c9cb461a8f2ae56cc89%40group.calendar.google.com/public/basic.ics">Subscribe in Google Calendar</a></div><div class="orbit"></div><div class="dateball"><div><small>SEP</small>26</div></div></section>
+<section class="hero"><div class="eyebrow">CURATED IN AMSTERDAM · UTRECHT · ONLINE</div><h1>AI events in<br><em>Amsterdam.</em></h1><p class="lead">Technical meetups, talks, and conferences in Amsterdam, Utrecht, and online. Updated as events change.</p><div class="hero-actions"><a class="button dark" href="#events">View events</a><a class="button" href="https://calendar.google.com/calendar/embed?src=5c89273b0d732c5351c701035bad985e22fa4a74406f5c9cb461a8f2ae56cc89%40group.calendar.google.com&ctz=Europe%2FAmsterdam" target="_blank" rel="noopener">Open calendar</a><a class="button" href="https://calendar.google.com/calendar/ical/5c89273b0d732c5351c701035bad985e22fa4a74406f5c9cb461a8f2ae56cc89%40group.calendar.google.com/public/basic.ics">Subscribe in Google Calendar</a></div><div class="orbit"></div><div class="dateball"><div><small>SEP</small>26</div></div></section>
 <main id="events"><h2>Selected events</h2><div class="filters" id="filters"></div><div class="grid" id="grid"></div>
-<section class="submit" id="about"><div><h2>Know a great event?</h2><p>Submit it for review. Suggestions are not published automatically; they require approval before joining the calendar.</p></div><a class="button" target="_blank" rel="noopener" href="https://github.com/AhmedOmarO/-amsterdam-ai-events/issues/new?title=Event%20suggestion&body=Event%20name%3A%0ADate%20and%20time%3A%0ALocation%20or%20online%3A%0AEvent%20URL%3A%0AWhy%20it%20fits%3A">Suggest an event</a></section></main>
-<footer>Amsterdam AI Events · Amsterdam, Utrecht & online · Curated independently</footer>
+<section class="submit" id="about"><div><h2>Know an event?</h2><p>Send a suggestion for review. Nothing is published automatically.</p></div><a class="button" target="_blank" rel="noopener" href="https://github.com/AhmedOmarO/-amsterdam-ai-events/issues/new?title=Event%20suggestion&body=Event%20name%3A%0ADate%20and%20time%3A%0ALocation%20or%20online%3A%0AEvent%20URL%3A%0AWhy%20it%20fits%3A">Suggest an event</a></section></main>
+<footer>Amsterdam AI Events · Amsterdam, Utrecht & online</footer>
 <script>
 const events=[
 {title:"ClickHouse Open House Amsterdam",date:"1 Sep",place:"Amsterdam",topic:"Data & ML",time:"08:00–18:35",venue:"Westergas",url:"https://clickhouse.com/openhouse/amsterdam-2026"},
