@@ -4,12 +4,25 @@ A curated calendar of data science, machine learning, agentic AI, and geospatial
 
 ## Run locally
 
-Open `index.html` in a browser.
+Start the server:
 
-## Publish on Replit
+```bash
+npm start
+```
 
-Import this GitHub repository into Replit and use a Static Deployment with `.` as the public directory.
+Then open `http://localhost:8000`.
 
-## Calendar
+## Dynamic calendar feed
 
-Visitors can download `calendar.ics` or add individual events directly to Google Calendar.
+The public `calendar.ics` endpoint is generated from the Google Sheet source of truth at request time. To make it work, publish the sheet so the CSV export URL is reachable, then set:
+
+- `SHEET_ID`
+- `SHEET_GID`
+- or `SHEET_CSV_URL`
+
+Optional:
+- `CALENDAR_TZ` for the calendar timezone
+
+## Google Sheet
+
+The editable source of truth is the Google Sheet created for this project. Update events there and subscribers can refresh the same `calendar.ics` URL.
