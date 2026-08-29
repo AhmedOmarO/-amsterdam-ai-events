@@ -28,12 +28,17 @@ footer{padding:35px max(7vw,28px);border-top:1px solid var(--line);color:var(--m
 <script>
 const events=[
 {title:"ClickHouse Open House Amsterdam",date:"1 Sep",place:"Amsterdam",topic:"Data & ML",time:"08:00–18:35",venue:"Westergas",url:"https://clickhouse.com/openhouse/amsterdam-2026"},
+{title:"Agentic Experiences",date:"3 Sep",place:"Utrecht area",topic:"AI Agents",time:"17:30–20:30",venue:"Ringwade 1, Nieuwegein",url:"https://www.meetup.com/nl-nl/codestar-night/events/315166616/"},
 {title:"AI Tinkerers: Agents in Various Forms",date:"3 Sep",place:"Amsterdam",topic:"AI Agents",time:"18:00–21:00",venue:"Amsterdam",url:"https://amsterdam.aitinkerers.org/"},
-{title:"Data Expo — Day 1",date:"9 Sep",place:"Utrecht",topic:"Data & ML",time:"10:00–17:00",venue:"Jaarbeurs Utrecht",url:"https://www.data-expo.nl/en/"},
+{title:"Data Expo 2026",date:"9–10 Sep",place:"Utrecht",topic:"Data & ML",time:"10:00–17:00 each day",venue:"Jaarbeurs Utrecht",url:"https://www.data-expo.nl/en/visitors/free-tickets"},
 {title:"Mindstone Amsterdam AI Meetup",date:"9 Sep",place:"Amsterdam",topic:"GenAI",time:"18:00–21:00",venue:"Maarten Luther Kerk",url:"https://community.mindstone.com/events/mindstone-amsterdam-september-ai-meetup-2026"},
 {title:"PyData Amsterdam 2026",date:"10–11 Sep",place:"Amsterdam",topic:"Data & ML",time:"Two days",venue:"NDSM",url:"https://amsterdam.pydata.org/"},
+{title:"KINTalk: The AI That Grows",date:"10 Sep",place:"Amsterdam",topic:"Data & ML",time:"17:15–19:00",venue:"Vrije Universiteit Amsterdam",url:"https://www.meetup.com/kincenterfordigitalinnovation/"},
+{title:"Machine Learning for ICT Infrastructure Detection",date:"15 Sep",place:"Online",topic:"Geospatial",time:"14:00–15:00",venue:"Online",url:"https://aiforgood.itu.int/event/machine-learning-for-ict-infrastructure-detection/"},
+{title:"AGNTCon + MCPCon Europe",date:"17–18 Sep",place:"Amsterdam",topic:"AI Agents",time:"From 09:00 both days",venue:"RAI Amsterdam",url:"https://events.linuxfoundation.org/agntcon-mcpcon-europe/"},
 {title:"Microsoft Agent-a-Thon: Architect",date:"17 Sep",place:"Online",topic:"AI Agents",time:"13:30–16:30",venue:"Online",url:"https://www.microsoft.com/en-us/events/local-events/microsoft-agent-a-thon"},
-{title:"Utrecht AI Meetup #4",date:"18 Sep",place:"Utrecht",topic:"GenAI",time:"18:00–21:30",venue:"The AI Hub",url:"https://www.meetup.com/the-ai-meetup/events/315759037/"}
+{title:"Utrecht AI Meetup #4",date:"18 Sep",place:"Utrecht",topic:"GenAI",time:"18:00–21:30",venue:"The AI Hub",url:"https://www.meetup.com/the-ai-meetup/events/315759037/"},
+{title:"AI, ML and Computer Vision Meetup",date:"24 Sep",place:"Online",topic:"Data & ML",time:"18:00–20:00",venue:"Online",url:"https://www.meetup.com/nl-nl/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/315388206/"}
 ];
 const values=["All",...new Set(events.flatMap(e=>[e.place,e.topic]))],filters=document.querySelector("#filters"),grid=document.querySelector("#grid");
 function draw(active="All"){filters.innerHTML=values.map(v=>`<button class="filter ${v===active?"active":""}" data-v="${v}">${v}</button>`).join("");grid.innerHTML=events.filter(e=>active==="All"||e.place===active||e.topic===active).map(e=>`<article class="card"><div class="meta"><span class="tag">${e.date}</span><span class="tag">${e.place}</span><span class="tag">${e.topic}</span></div><h3>${e.title}</h3><p>${e.time} · ${e.venue}</p><div class="actions"><a href="${e.url}" target="_blank" rel="noopener">Event details ↗</a></div></article>`).join("");document.querySelectorAll(".filter").forEach(b=>b.onclick=()=>draw(b.dataset.v))}
