@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Amsterdam AI Events
 BEGIN:VEVENT
 UID:clickhouse-open-house-2026@amsai.events
-DTSTAMP:20260827T120000Z
+DTSTAMP:20260829T070000Z
 DTSTART:20260901T060000Z
 DTEND:20260901T163500Z
 SUMMARY:ClickHouse Open House Amsterdam
@@ -14,8 +14,17 @@ LOCATION:Westergas\, Amsterdam
 URL:https://clickhouse.com/openhouse/amsterdam-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:agentic-experiences-2026@amsai.events
+DTSTAMP:20260829T070000Z
+DTSTART:20260903T153000Z
+DTEND:20260903T183000Z
+SUMMARY:Agentic Experiences
+LOCATION:Ringwade 1\, Nieuwegein
+URL:https://www.meetup.com/nl-nl/codestar-night/events/315166616/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-tinkerers-2026@amsai.events
-DTSTAMP:20260827T120000Z
+DTSTAMP:20260829T070000Z
 DTSTART:20260903T160000Z
 DTEND:20260903T190000Z
 SUMMARY:AI Tinkerers: Agents in Various Forms
@@ -24,16 +33,16 @@ URL:https://amsterdam.aitinkerers.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:data-expo-2026@amsai.events
-DTSTAMP:20260827T120000Z
+DTSTAMP:20260829T070000Z
 DTSTART:20260909T080000Z
-DTEND:20260909T150000Z
-SUMMARY:Data Expo — Day 1
+DTEND:20260910T150000Z
+SUMMARY:Data Expo 2026
 LOCATION:Jaarbeurs Utrecht
-URL:https://www.data-expo.nl/en/
+URL:https://www.data-expo.nl/en/visitors/free-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:mindstone-2026@amsai.events
-DTSTAMP:20260827T120000Z
+DTSTAMP:20260829T070000Z
 DTSTART:20260909T160000Z
 DTEND:20260909T190000Z
 SUMMARY:Mindstone Amsterdam AI Meetup
@@ -42,7 +51,7 @@ URL:https://community.mindstone.com/events/mindstone-amsterdam-september-ai-meet
 END:VEVENT
 BEGIN:VEVENT
 UID:pydata-amsterdam-2026@amsai.events
-DTSTAMP:20260827T120000Z
+DTSTAMP:20260829T070000Z
 DTSTART:20260910T060000Z
 DTEND:20260911T160000Z
 SUMMARY:PyData Amsterdam 2026
@@ -50,8 +59,35 @@ LOCATION:NDSM\, Amsterdam
 URL:https://amsterdam.pydata.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:kintalk-ai-grows-2026@amsai.events
+DTSTAMP:20260829T070000Z
+DTSTART:20260910T151500Z
+DTEND:20260910T170000Z
+SUMMARY:KINTalk: The AI That Grows
+LOCATION:Vrije Universiteit Amsterdam
+URL:https://www.meetup.com/kincenterfordigitalinnovation/
+END:VEVENT
+BEGIN:VEVENT
+UID:itu-ict-infrastructure-ml-2026@amsai.events
+DTSTAMP:20260829T070000Z
+DTSTART:20260915T120000Z
+DTEND:20260915T130000Z
+SUMMARY:Machine Learning for ICT Infrastructure Detection
+LOCATION:Online
+URL:https://aiforgood.itu.int/event/machine-learning-for-ict-infrastructure-detection/
+END:VEVENT
+BEGIN:VEVENT
+UID:agntcon-mcpcon-europe-2026@amsai.events
+DTSTAMP:20260829T070000Z
+DTSTART:20260917T070000Z
+DTEND:20260918T153000Z
+SUMMARY:AGNTCon + MCPCon Europe
+LOCATION:RAI Amsterdam
+URL:https://events.linuxfoundation.org/agntcon-mcpcon-europe/
+END:VEVENT
+BEGIN:VEVENT
 UID:microsoft-agentathon-2026@amsai.events
-DTSTAMP:20260827T120000Z
+DTSTAMP:20260829T070000Z
 DTSTART:20260917T113000Z
 DTEND:20260917T143000Z
 SUMMARY:Microsoft Agent-a-Thon: Architect
@@ -60,11 +96,20 @@ URL:https://www.microsoft.com/en-us/events/local-events/microsoft-agent-a-thon
 END:VEVENT
 BEGIN:VEVENT
 UID:utrecht-ai-meetup-4@amsai.events
-DTSTAMP:20260827T120000Z
+DTSTAMP:20260829T070000Z
 DTSTART:20260918T160000Z
 DTEND:20260918T193000Z
 SUMMARY:Utrecht AI Meetup #4
 LOCATION:The AI Hub\, Utrecht
 URL:https://www.meetup.com/the-ai-meetup/events/315759037/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-ml-cv-meetup-2026@amsai.events
+DTSTAMP:20260829T070000Z
+DTSTART:20260924T160000Z
+DTEND:20260924T180000Z
+SUMMARY:AI\, ML and Computer Vision Meetup
+LOCATION:Online
+URL:https://www.meetup.com/nl-nl/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/315388206/
 END:VEVENT
 END:VCALENDAR
