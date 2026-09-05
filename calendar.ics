@@ -112,4 +112,85 @@ SUMMARY:AI\, ML and Computer Vision Meetup
 LOCATION:Online
 URL:https://www.meetup.com/nl-nl/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/315388206/
 END:VEVENT
+BEGIN:VEVENT
+UID:rust-data-ai-adyen-2026@amsai.events
+DTSTAMP:20260905T100000Z
+DTSTART:20260909T160000Z
+DTEND:20260909T190000Z
+SUMMARY:Rust\, Data and AI @ Adyen
+LOCATION:Adyen Events\, Rokin 49\, Amsterdam
+URL:https://www.meetup.com/amsterdam-sail-user-group/events/316376876/
+END:VEVENT
+BEGIN:VEVENT
+UID:agents-after-hour-aaif-2026@amsai.events
+DTSTAMP:20260905T100000Z
+DTSTART:20260916T150000Z
+DTEND:20260916T193000Z
+SUMMARY:Agents After Hour: Inside AAIF
+LOCATION:JetBrains Amsterdam
+URL:https://luma.com/vjosakzn
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-builders-amsterdam-2026@amsai.events
+DTSTAMP:20260905T100000Z
+DTSTART:20260916T153000Z
+DTEND:20260916T190000Z
+SUMMARY:AI Builders Amsterdam
+LOCATION:StartDock\, Prins Hendrikkade\, Amsterdam
+URL:https://luma.com/ams-sep16
+END:VEVENT
+BEGIN:VEVENT
+UID:react-amsterdam-ai-web-2026@amsai.events
+DTSTAMP:20260905T100000Z
+DTSTART:20260916T163000Z
+DTEND:20260916T190000Z
+SUMMARY:React Amsterdam: AI-Powered Web Engineering
+LOCATION:The Social Hub Amsterdam City
+URL:https://luma.com/szy3237q
+END:VEVENT
+BEGIN:VEVENT
+UID:adas-av-ai-meetup-2026@amsai.events
+DTSTAMP:20260905T100000Z
+DTSTART:20260917T160000Z
+DTEND:20260917T180000Z
+SUMMARY:ADAS\, AV\, and AI Meetup
+LOCATION:Online
+URL:https://www.meetup.com/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316174962/
+END:VEVENT
+BEGIN:VEVENT
+UID:agents-in-prod-motherduck-2026@amsai.events
+DTSTAMP:20260905T100000Z
+DTSTART:20260917T160000Z
+DTEND:20260917T190000Z
+SUMMARY:Agents in Prod @ MotherDuck
+LOCATION:MotherDuck B.V.\, Amsterdam
+URL:https://luma.com/kx78lnna
+END:VEVENT
+BEGIN:VEVENT
+UID:fiftyone-agent-2026@amsai.events
+DTSTAMP:20260905T100000Z
+DTSTART:20260922T160000Z
+DTEND:20260922T170000Z
+SUMMARY:FiftyOne Agent
+LOCATION:Online
+URL:https://www.meetup.com/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316064294/
+END:VEVENT
+BEGIN:VEVENT
+UID:builders-brews-aaif-2026@amsai.events
+DTSTAMP:20260905T100000Z
+DTSTART:20260925T140000Z
+DTEND:20260925T200000Z
+SUMMARY:Builders & Brews with AAIF @ JetBrains
+LOCATION:JetBrains Amsterdam
+URL:https://luma.com/tavily-7u0e
+END:VEVENT
+BEGIN:VEVENT
+UID:annual-hai-sig-day-2026@amsai.events
+DTSTAMP:20260905T100000Z
+DTSTART:20261002T100000Z
+DTEND:20261002T160000Z
+SUMMARY:Annual Human-Centered AI SIG Day
+LOCATION:Universiteitsmuseum Utrecht
+URL:https://www.uu.nl/en/events/annual-hai-sig-day-2026
+END:VEVENT
 END:VCALENDAR
