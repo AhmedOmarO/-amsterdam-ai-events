@@ -193,4 +193,44 @@ SUMMARY:Annual Human-Centered AI SIG Day
 LOCATION:Universiteitsmuseum Utrecht
 URL:https://www.uu.nl/en/events/annual-hai-sig-day-2026
 END:VEVENT
+BEGIN:VEVENT
+UID:hpe-ai-developer-day-amstelveen-2026@amsai.events
+DTSTAMP:20260914T000000Z
+DTSTART:20260922T073000Z
+DTEND:20260922T140000Z
+SUMMARY:HPE AI Developer Day: Build an AI Agent
+LOCATION:HPE Office\, Stroombaan 16\, Amstelveen
+DESCRIPTION:AI agents / ML infrastructure. No fee listed; registration required. Build enterprise AI-agent workflows using LangFlow\, HPE Private Cloud AI and NVIDIA infrastructure.
+URL:https://events.bizzabo.com/797906/page/6020635/amstelveen
+END:VEVENT
+BEGIN:VEVENT
+UID:langchain-agent-harnesses-2026@amsai.events
+DTSTAMP:20260914T000000Z
+DTSTART:20261006T160000Z
+DTEND:20261006T190000Z
+SUMMARY:Agent Harnesses and Managed Agents 101
+LOCATION:Amsterdam\, address shown after organizer approval
+DESCRIPTION:AI agents. No fee shown; organizer approval required. Production lessons from Philips Hue and Harrison Chase on building reliable agent harnesses.
+URL:https://luma.com/wvxw9eve
+END:VEVENT
+BEGIN:VEVENT
+UID:climate-canals-2026@amsai.events
+DTSTAMP:20260914T000000Z
+DTSTART:20261006T152000Z
+DTEND:20261006T180000Z
+SUMMARY:Climate Canals: Next-Gen Data\, AI & Robotics
+LOCATION:Epicenter\, Piet Heinkade 99\, Amsterdam
+DESCRIPTION:Geospatial and climate AI. Free; registration required. Weather and satellite modelling\, digital twins\, sensor networks and geospatial AI.
+URL:https://luma.com/md44y4bd
+END:VEVENT
+BEGIN:VEVENT
+UID:amsterdam-data-academy-agent-workshop-2026@amsai.events
+DTSTAMP:20260914T000000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T160000Z
+SUMMARY:Build Your Own AI Agent: Workshop and Round Table
+LOCATION:Matrix ONE\, Science Park 301\, Amsterdam
+DESCRIPTION:AI agents. Free; registration required. Hands-on workshop to build a working AI agent followed by a practical round table.
+URL:https://amsterdamdataacademy.com/ada-world-ai-week-2026/
+END:VEVENT
 END:VCALENDAR
