@@ -104,6 +104,16 @@ LOCATION:The AI Hub\, Utrecht
 URL:https://www.meetup.com/the-ai-meetup/events/315759037/
 END:VEVENT
 BEGIN:VEVENT
+UID:accel-off-the-record-amsterdam-2026@amsai.events
+DTSTAMP:20260920T230000Z
+DTSTART:20260923T153000Z
+DTEND:20260923T183000Z
+SUMMARY:Accel Off The Record | Amsterdam
+LOCATION:AI House Amsterdam\, Gustav Mahlerplein 5\, 1082 MS Amsterdam
+DESCRIPTION:Generative AI product and company building. No fee listed; registration required. Conversations with founders and leaders from Lovable\, Granola\, Weaviate\, Picnic and Accel. Registration: https://www.aihouse.nl/events/accel-off-the-record-amsterdam
+URL:https://www.aihouse.nl/events/accel-off-the-record-amsterdam
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-ml-cv-meetup-2026@amsai.events
 DTSTAMP:20260829T070000Z
 DTSTART:20260924T160000Z
