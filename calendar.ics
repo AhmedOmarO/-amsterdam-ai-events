@@ -233,4 +233,74 @@ LOCATION:Matrix ONE\, Science Park 301\, Amsterdam
 DESCRIPTION:AI agents. Free; registration required. Hands-on workshop to build a working AI agent followed by a practical round table.
 URL:https://amsterdamdataacademy.com/ada-world-ai-week-2026/
 END:VEVENT
+BEGIN:VEVENT
+UID:booking-ml-meetup-edition-03-2026@amsai.events
+DTSTAMP:20260920T070000Z
+DTSTART:20260928T150000Z
+DTEND:20260928T183000Z
+SUMMARY:Booking.com ML Meetup — Edition 03
+LOCATION:Booking.com Amsterdam office
+DESCRIPTION:AI agents and evaluation. Free; limited places. Talks from Anthropic and Booking.com on agent loops\, measuring AI engineering quality\, and automated LLM judges. Registration: https://meetup.booking.com/
+URL:https://meetup.booking.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:fiftyone-composable-vision-2026@amsai.events
+DTSTAMP:20260920T070000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T170000Z
+SUMMARY:Building Composable Vision Workflows in FiftyOne
+LOCATION:Online
+DESCRIPTION:Computer vision and ML workflows. No fee listed. Hands-on workshop covering Python plugins\, inference\, labeling integrations\, vector search and background execution. Registration: https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-september-30-2026
+URL:https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-september-30-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:mcp-agents-skills-meetup-2026@amsai.events
+DTSTAMP:20260920T070000Z
+DTSTART:20261008T160000Z
+DTEND:20261008T180000Z
+SUMMARY:MCP\, Agents and Skills Meetup
+LOCATION:Online
+DESCRIPTION:MCP and AI agents. No fee listed. Technical sessions on multi-agent architecture\, regulated deployments\, MCP\, skills and agent guidance. Registration: https://www.meetup.com/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316022240/
+URL:https://www.meetup.com/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316022240/
+END:VEVENT
+BEGIN:VEVENT
+UID:enterprise-ai-observability-governance-2026@amsai.events
+DTSTAMP:20260920T070000Z
+DTSTART:20261014T160000Z
+DTEND:20261014T190000Z
+SUMMARY:Enterprise AI in Practice: Observability and Governance
+LOCATION:Cisco Systems Netherlands\, Haarlerbergweg 13-19\, Amsterdam
+DESCRIPTION:Production AI agents\, security and observability. No fee listed. Enterprise multi-agent platform case study plus tracing\, automated evaluation and cognitive governance. Registration: https://www.meetup.com/nl-nl/ai-guardians-dutch-chapter/events/316498489/
+URL:https://www.meetup.com/nl-nl/ai-guardians-dutch-chapter/events/316498489/
+END:VEVENT
+BEGIN:VEVENT
+UID:advancedai-amsterdam-october-2026@amsai.events
+DTSTAMP:20260920T070000Z
+DTSTART:20261014T153000Z
+DTEND:20261014T183000Z
+SUMMARY:AdvancedAI Amsterdam
+LOCATION:Xebia Netherlands BV\, Wibautstraat 200\, Amsterdam
+DESCRIPTION:AI agents. Free. Talks on explainable agentic workflows\, long-term agent memory and grounding agents in real data models. Registration: https://www.meetup.com/nl-nl/advancedai-amsterdam/events/316057180/
+URL:https://www.meetup.com/nl-nl/advancedai-amsterdam/events/316057180/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-everywhere-mcp-orchestration-tokenomics-2026@amsai.events
+DTSTAMP:20260920T070000Z
+DTSTART:20261014T150000Z
+DTEND:20261014T190000Z
+SUMMARY:AI Everywhere: MCP\, Agent Orchestration & AI Tokenomics
+LOCATION:Conflux\, Europalaan 93\, Utrecht
+DESCRIPTION:MCP and AI-agent engineering. No fee listed. A Utrecht meetup focused on MCP\, agent orchestration and AI tokenomics. Registration: https://www.meetup.com/nl-nl/conflux-connect-the-future-of-it/events/316294955/
+URL:https://www.meetup.com/nl-nl/conflux-connect-the-future-of-it/events/316294955/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-ml-cv-meetup-october-15-2026@amsai.events
+DTSTAMP:20260920T070000Z
+DTSTART:20261015T160000Z
+DTEND:20261015T180000Z
+SUMMARY:Oct 15 — AI\, ML and Computer Vision Meetup
+LOCATION:Online
+DESCRIPTION:Production ML and computer vision. No fee listed. Talks on data quality\, drift\, model evaluation\, edge/cloud deployment\, medical imaging and voice AI. Registration: https://www.meetup.com/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316572395/
+URL:https://www.meetup.com/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316572395/
+END:VEVENT
 END:VCALENDAR
