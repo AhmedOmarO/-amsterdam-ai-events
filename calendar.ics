@@ -313,4 +313,84 @@ LOCATION:Online
 DESCRIPTION:Production ML and computer vision. No fee listed. Talks on data quality\, drift\, model evaluation\, edge/cloud deployment\, medical imaging and voice AI. Registration: https://www.meetup.com/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316572395/
 URL:https://www.meetup.com/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316572395/
 END:VEVENT
+BEGIN:VEVENT
+UID:itu-entering-next-era-ai-2026@amsai.events
+DTSTAMP:20260926T083000Z
+DTSTART:20260928T133000Z
+DTEND:20260928T143000Z
+SUMMARY:Entering the Next Era of AI
+LOCATION:Online
+DESCRIPTION:Data & ML. No fee listed\; ITU registration required. Sepp Hochreiter on xLSTM and time-series foundation models for autonomous industrial AI. Registration: https://aiforgood.itu.int/event/entering-the-next-era-of-ai/
+URL:https://aiforgood.itu.int/event/entering-the-next-era-of-ai/
+END:VEVENT
+BEGIN:VEVENT
+UID:itu-built-on-trust-genai-2026@amsai.events
+DTSTAMP:20260926T083000Z
+DTSTART:20260929T140000Z
+DTEND:20260929T150000Z
+SUMMARY:Built on Trust: Dependable GenAI Outcomes
+LOCATION:Online
+DESCRIPTION:GenAI. No fee listed\; ITU registration required. Trusted context\, knowledge graphs\, permissions and human review for dependable GenAI. Registration: https://aiforgood.itu.int/event/built-on-trust-why-dependable-outcomes-need-trusted-context-and-clear-control/
+URL:https://aiforgood.itu.int/event/built-on-trust-why-dependable-outcomes-need-trusted-context-and-clear-control/
+END:VEVENT
+BEGIN:VEVENT
+UID:n8n-amsterdam-october-2026@amsai.events
+DTSTAMP:20260926T083000Z
+DTSTART:20261001T163000Z
+DTEND:20261001T193000Z
+SUMMARY:n8n Amsterdam Meetup
+LOCATION:StartDock\, Prins Hendrikkade 21e\, Amsterdam
+DESCRIPTION:AI Agents. Free. Live AI agent and workflow automation demonstrations with practical use cases. Registration: https://luma.com/n8n-19y3
+URL:https://luma.com/n8n-19y3
+END:VEVENT
+BEGIN:VEVENT
+UID:women-building-ai-2026@amsai.events
+DTSTAMP:20260926T083000Z
+DTSTART:20261006T140000Z
+DTEND:20261006T180000Z
+SUMMARY:Women Building AI: What Holds Up in 2026
+LOCATION:AI House\, Gustav Mahlerplein 5\, Amsterdam
+DESCRIPTION:AI Agents. Free\; organizer approval required. Technical roundtables on production agents\, evaluation\, observability and AI infrastructure. Registration: https://luma.com/yvp81p6x
+URL:https://luma.com/yvp81p6x
+END:VEVENT
+BEGIN:VEVENT
+UID:github-figma-happy-hour-2026@amsai.events
+DTSTAMP:20260926T083000Z
+DTSTART:20261006T160000Z
+DTEND:20261006T190000Z
+SUMMARY:GitHub + Figma Happy Hour: From Design to Code
+LOCATION:Zoku Amsterdam
+DESCRIPTION:GenAI. No fee listed\; registration required. Live demonstration linking Figma design\, GitHub Copilot and pull requests. Registration: https://fig-events.figma.com/figma-github-amsterdam-happy-hour/
+URL:https://fig-events.figma.com/figma-github-amsterdam-happy-hour/
+END:VEVENT
+BEGIN:VEVENT
+UID:odyssea-datathon-2026@amsai.events
+DTSTAMP:20260926T083000Z
+DTSTART:20261008T070000Z
+DTEND:20261009T153000Z
+SUMMARY:ODYSSEA Datathon
+LOCATION:Amsterdam\; venue provided after registration
+DESCRIPTION:Data & ML. Free. Two-day datathon with real data\, modelling\, prototyping and mentoring. Registration: https://www.skillntell.com/register/odyssea
+URL:https://www.skillntell.com/register/odyssea
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-at-science-park-october-2026@amsai.events
+DTSTAMP:20260926T083000Z
+DTSTART:20261008T140000Z
+DTEND:20261008T170000Z
+SUMMARY:AI at Science Park: AI & the University
+LOCATION:LAB42\, Science Park 900\, Amsterdam
+DESCRIPTION:Data & ML. Free. Research talks on AI in mathematics and data science education from UvA and Berkeley. Registration: https://luma.com/n9rur22e
+URL:https://luma.com/n9rur22e
+END:VEVENT
+BEGIN:VEVENT
+UID:figma-ai-demo-night-2026@amsai.events
+DTSTAMP:20260926T083000Z
+DTSTART:20261008T160000Z
+DTEND:20261008T183000Z
+SUMMARY:AI Demo Night
+LOCATION:Central Amsterdam\; venue to be confirmed by organizer
+DESCRIPTION:GenAI. No fee listed\; registration required. Short real-world demonstrations of AI agents and Figma AI workflows. Registration: https://fig-events.figma.com/friends-of-figma-amsterdam/
+URL:https://fig-events.figma.com/friends-of-figma-amsterdam/
+END:VEVENT
 END:VCALENDAR
