@@ -463,4 +463,14 @@ LOCATION:Xebia\, Wibautstraat 200\, Amsterdam
 DESCRIPTION:ML engineering and coding agents. Free. Hands-on workshop on improving AI coding reliability with project context. Registration: https://godatafest.com/workshops/what-your-ai-cant-see/
 URL:https://godatafest.com/workshops/what-your-ai-cant-see/
 END:VEVENT
+BEGIN:VEVENT
+UID:amsterdam-data-union-agentic-analytics-2026@amsai.events
+DTSTAMP:20261007T194535Z
+DTSTART:20261014T160000Z
+DTEND:20261014T190000Z
+SUMMARY:Agentic AI for Self-Service Analytics: Build or Buy?
+LOCATION:Adyen Rokin Office\, Rokin 49\, Amsterdam
+DESCRIPTION:AI agents and analytics. No fee listed. Practitioner panel on building or buying agentic AI for self-service analytics with speakers from Adyen and Manychat. Registration: https://www.linkedin.com/events/agenticaiforselfserviceanalytic7505890305284530176/
+URL:https://www.linkedin.com/events/agenticaiforselfserviceanalytic7505890305284530176/
+END:VEVENT
 END:VCALENDAR
