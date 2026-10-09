@@ -430,6 +430,90 @@
       "registration_url": "https://godatafest.com/workshops/what-your-ai-cant-see/",
       "summary": "Hands-on workshop on making AI coding assistants more reliable with project context.",
       "source_url": "https://godatafest.com/workshops/what-your-ai-cant-see/"
+    },
+    {
+      "event_id": "evt-20261015-building-decision-layers-ai-agents-jev",
+      "date": "2026-10-15",
+      "start_datetime": "2026-10-15T20:00:00+02:00",
+      "end_datetime": "2026-10-15T21:00:00+02:00",
+      "name": "Building Decision Layers for AI Agents with Jev",
+      "type": "AI Agents",
+      "summary": "Free hands-on workshop on using Jev as a decision layer around AI agents.",
+      "description": "A hands-on workshop about separating bounded semantic decisions from open-ended language generation in AI-agent systems. Youssef Hosni demonstrates how Jev's typed decisions and probability outputs can support model routing, tool-risk gates, retrieval and relevance checks, verification, escalation and human approval while ordinary application code remains in control. The session also compares Jev with a general-purpose language model on latency, cost and decision behaviour, and explains when deterministic code or a full reasoning model is the better choice.",
+      "speakers": [
+        {
+          "name": "Youssef Hosni",
+          "role": "AI/ML Engineer and PhD Researcher",
+          "organization": "Solita and Aalto University"
+        }
+      ],
+      "format": "online",
+      "location": "Online via Zoom",
+      "registration_url": "https://luma.com/vud14fbc",
+      "source_url": "https://luma.com/vud14fbc"
+    },
+    {
+      "event_id": "evt-20261018-building-ai-data-agents-microsoft-fabric",
+      "date": "2026-10-18",
+      "start_datetime": "2026-10-18T21:00:00+02:00",
+      "end_datetime": "2026-10-18T23:00:00+02:00",
+      "name": "Building AI Data Agents with Microsoft Fabric",
+      "type": "AI Agents",
+      "summary": "Ukrainian-language workshop demonstrating a working Microsoft Fabric data agent.",
+      "description": "A Ukrainian-language, hands-on online workshop that follows an AI data agent from initial configuration to a working Microsoft Fabric implementation. The demonstration shows how agents can work with organizational data and support practical business tasks, while explaining the underlying architecture, important implementation choices and deployment considerations. It is aimed at data engineers, analysts, developers, product leaders and learners interested in Microsoft Fabric, Azure, SQL, Python, data platforms and automation.",
+      "speakers": [
+        {
+          "name": "Iurii Lurchenko",
+          "role": "Senior Data Engineer and CEO",
+          "organization": "Life Line Screening and Data Assets LLC"
+        }
+      ],
+      "format": "online",
+      "location": "Online via Zoom",
+      "registration_url": "https://luma.com/ipn1bflt",
+      "source_url": "https://luma.com/ipn1bflt"
+    },
+    {
+      "event_id": "evt-20261022-fewer-tokens-cost-optimisation-ai-agents",
+      "date": "2026-10-22",
+      "start_datetime": "2026-10-22T17:30:00+02:00",
+      "end_datetime": "2026-10-22T18:30:00+02:00",
+      "name": "Fewer Tokens, Similar Results: Cost Optimisation for AI Agents",
+      "type": "AI Agents",
+      "summary": "Free technical webinar on reducing AI-agent token use and cost per successful task.",
+      "description": "A technical webinar explaining why agent costs can grow much faster than the number of workflow steps when agents repeatedly call models and reread accumulated context. The session covers six commonly missed cost drivers and five practical optimisation techniques: caching, model routing, context trimming, explicit budgets and appropriately sized multi-agent designs. A test-failure triage agent reduced to one twenty-fifth of its earlier cost is used as a concrete example, with emphasis on measuring cost per successful task instead of cost per model call.",
+      "speakers": [
+        {
+          "name": "Chandan Varshney",
+          "role": "Lead SDET and Test Automation Architect",
+          "organization": "EPAM"
+        }
+      ],
+      "format": "online",
+      "location": "Online via Zoom",
+      "registration_url": "https://luma.com/webinar-tokenisation",
+      "source_url": "https://luma.com/webinar-tokenisation"
+    },
+    {
+      "event_id": "evt-20261029-ai-agents-autonomous-collaboration",
+      "date": "2026-10-29",
+      "start_datetime": "2026-10-29T16:00:00+01:00",
+      "end_datetime": "2026-10-29T17:00:00+01:00",
+      "name": "AI Agents – From Assistance to Autonomous Collaboration",
+      "type": "AI Agents",
+      "summary": "Microsoft Reactor session on agents that reason, plan, automate and collaborate.",
+      "description": "A Microsoft Reactor livestream introducing the shift from assistive AI toward intelligent agents that can reason, plan, automate multi-step work and collaborate with people. The session surveys emerging workplace use cases and helps participants identify where agent capabilities can create useful opportunities in modern organizations. It is presented in English as part of Microsoft's AI Skills for Tomorrow series.",
+      "speakers": [
+        {
+          "name": "Jaqueline Ramos",
+          "role": "Microsoft Technical Trainer",
+          "organization": "Microsoft"
+        }
+      ],
+      "format": "online",
+      "location": "Online via Microsoft Reactor",
+      "registration_url": "https://developer.microsoft.com/en-us/reactor/events/27655/",
+      "source_url": "https://developer.microsoft.com/en-us/reactor/events/27655/"
     }
   ]
 }
