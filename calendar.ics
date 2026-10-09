@@ -473,4 +473,44 @@ LOCATION:Adyen Rokin Office\, Rokin 49\, Amsterdam
 DESCRIPTION:AI agents and analytics. No fee listed. Practitioner panel on building or buying agentic AI for self-service analytics with speakers from Adyen and Manychat. Registration: https://www.linkedin.com/events/agenticaiforselfserviceanalytic7505890305284530176/
 URL:https://www.linkedin.com/events/agenticaiforselfserviceanalytic7505890305284530176/
 END:VEVENT
+BEGIN:VEVENT
+UID:jev-decision-layers-agents-2026@amsai.events
+DTSTAMP:20261009T045400Z
+DTSTART:20261015T180000Z
+DTEND:20261015T190000Z
+SUMMARY:Building Decision Layers for AI Agents with Jev
+LOCATION:Online via Zoom
+DESCRIPTION:AI agents. Free. Hands-on workshop on typed decision layers for routing\, tool-risk gating\, relevance checks\, verification\, escalation and human approval. Registration: https://luma.com/vud14fbc
+URL:https://luma.com/vud14fbc
+END:VEVENT
+BEGIN:VEVENT
+UID:microsoft-fabric-data-agents-2026@amsai.events
+DTSTAMP:20261009T045400Z
+DTSTART:20261018T190000Z
+DTEND:20261018T210000Z
+SUMMARY:Building AI Data Agents with Microsoft Fabric
+LOCATION:Online via Zoom
+DESCRIPTION:AI agents and data engineering. No fee listed\; organizer approval required. Ukrainian-language workshop demonstrating agent setup\, architecture and practical organizational-data workflows in Microsoft Fabric. Registration: https://luma.com/ipn1bflt
+URL:https://luma.com/ipn1bflt
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-agent-cost-optimisation-2026@amsai.events
+DTSTAMP:20261009T045400Z
+DTSTART:20261022T153000Z
+DTEND:20261022T163000Z
+SUMMARY:Fewer Tokens\, Similar Results: Cost Optimisation for AI Agents
+LOCATION:Online via Zoom
+DESCRIPTION:AI agents. Free\; organizer approval required. Technical webinar on caching\, model routing\, context trimming\, budgets and right-sized multi-agent designs. Registration: https://luma.com/webinar-tokenisation
+URL:https://luma.com/webinar-tokenisation
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-agents-autonomous-collaboration-2026@amsai.events
+DTSTAMP:20261009T045400Z
+DTSTART:20261029T150000Z
+DTEND:20261029T160000Z
+SUMMARY:AI Agents – From Assistance to Autonomous Collaboration
+LOCATION:Online via Microsoft Reactor
+DESCRIPTION:AI agents. No fee listed\; registration required. Livestream on agents that reason\, plan\, automate and collaborate with users in modern workplaces. Registration: https://developer.microsoft.com/en-us/reactor/events/27655/
+URL:https://developer.microsoft.com/en-us/reactor/events/27655/
+END:VEVENT
 END:VCALENDAR
