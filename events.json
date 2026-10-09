@@ -1,7 +1,7 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "timezone": "Europe/Amsterdam",
-  "description": "Historical and upcoming events published by Amsterdam AI Events. New approved events are appended and existing IDs are not reused.",
+  "description": "Historical and upcoming events published by Amsterdam AI Events. Each record retains a stable event ID, a concise summary, a comprehensive source-grounded paraphrase, verified speakers when available, and the organizer source URL. New approved events are appended and existing IDs are not reused.",
   "events": [
     {
       "event_id": "evt-20261008-odyssea-datathon",
@@ -10,11 +10,13 @@
       "end_datetime": "2026-10-09T17:30:00+02:00",
       "name": "ODYSSEA Datathon",
       "type": "Data & ML",
-      "description": "Data & ML. Free. Two-day datathon with real data, modelling, prototyping and mentoring. Registration: https://www.skillntell.com/register/odyssea",
+      "description": "A two-day Amsterdam datathon focused on practical data-science delivery. Participants work with real datasets, frame a problem, develop models, turn promising ideas into prototypes, and refine their approach with mentor support. The format emphasizes collaborative, hands-on work and presenting a usable solution rather than attending a conventional conference programme.",
       "speakers": [],
       "format": "in_person",
       "location": "Amsterdam; venue provided after registration",
-      "registration_url": "https://www.skillntell.com/register/odyssea"
+      "registration_url": "https://www.skillntell.com/register/odyssea",
+      "summary": "Free two-day applied data and machine-learning datathon with mentoring.",
+      "source_url": "https://www.skillntell.com/register/odyssea"
     },
     {
       "event_id": "evt-20261008-ai-at-science-park-ai-the-university",
@@ -23,11 +25,29 @@
       "end_datetime": "2026-10-08T19:00:00+02:00",
       "name": "AI at Science Park: AI & the University",
       "type": "Data & ML",
-      "description": "Data & ML. Free. Research talks on AI in mathematics and data science education from UvA and Berkeley. Registration: https://luma.com/n9rur22e",
-      "speakers": [],
+      "description": "The opening edition of AI at Science Park examines how artificial intelligence is affecting universities and higher education. The programme brings together perspectives on teaching data science and AI literacy at scale, the digital gender divide and AI skills gaps, and the relationship between artificial intelligence and mathematics. It is designed as a research-led discussion connecting academic practice, education and societal impact.",
+      "speakers": [
+        {
+          "name": "Eric Van Dusen",
+          "role": null,
+          "organization": "UC Berkeley College of Computing, Data Science, and Society"
+        },
+        {
+          "name": "Iffat Rose Gill",
+          "role": null,
+          "organization": "The Code to Change"
+        },
+        {
+          "name": "Jeroen Zuiddam",
+          "role": null,
+          "organization": "Korteweg-de Vries Institute for Mathematics, University of Amsterdam"
+        }
+      ],
       "format": "in_person",
       "location": "LAB42, Science Park 900, Amsterdam",
-      "registration_url": "https://luma.com/n9rur22e"
+      "registration_url": "https://luma.com/n9rur22e",
+      "summary": "Research talks on how AI is changing universities, education and mathematics.",
+      "source_url": "https://luma.com/n9rur22e"
     },
     {
       "event_id": "evt-20261008-mcp-agents-and-skills-meetup",
@@ -36,11 +56,13 @@
       "end_datetime": "2026-10-08T20:00:00+02:00",
       "name": "MCP, Agents and Skills Meetup",
       "type": "AI Agents",
-      "description": "AI Agents event. 18:00–20:00 — Online.",
+      "description": "An online technical meetup about Model Context Protocol, agent architectures and reusable agent skills. The sessions focus on how tool-enabled AI agents connect to external systems, how capabilities can be packaged and reused, and what developers need to consider when turning experimental agents into more structured and reliable workflows.",
       "speakers": [],
       "format": "online",
       "location": "Online",
-      "registration_url": "https://www.meetup.com/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316022240/"
+      "registration_url": "https://www.meetup.com/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316022240/",
+      "summary": "Online technical meetup on MCP, AI agents and reusable agent skills.",
+      "source_url": "https://www.meetup.com/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316022240/"
     },
     {
       "event_id": "evt-20261008-ai-demo-night",
@@ -49,11 +71,34 @@
       "end_datetime": "2026-10-08T20:30:00+02:00",
       "name": "AI Demo Night",
       "type": "GenAI",
-      "description": "GenAI. No fee listed; registration required. Short real-world demonstrations of AI agents and Figma AI workflows. Registration: https://fig-events.figma.com/friends-of-figma-amsterdam/",
-      "speakers": [],
+      "description": "A demo-led evening showing how teams use AI inside real design and product workflows. Presentations use working files and discuss constraints, failed approaches and practical lessons rather than polished theory. The programme includes Figma AI workflows, agent work at Booking.com, and DEPT’s use of AI to re-render product imagery for Blackroll, followed by time for discussion and networking.",
+      "speakers": [
+        {
+          "name": "Jessica Chang",
+          "role": "Designer Advocate",
+          "organization": "Figma"
+        },
+        {
+          "name": "Laura Fehre",
+          "role": "Designer Advocate",
+          "organization": "Figma"
+        },
+        {
+          "name": "Louise Santos",
+          "role": "User Experience Designer",
+          "organization": "Booking.com"
+        },
+        {
+          "name": "Mitch van den Akker",
+          "role": "Principal Technical Designer / Creative Developer",
+          "organization": "DEPT"
+        }
+      ],
       "format": "in_person",
       "location": "Booking.com, Oosterdokskade 163, Amsterdam",
-      "registration_url": "https://fig-events.figma.com/friends-of-figma-amsterdam/"
+      "registration_url": "https://fig-events.figma.com/friends-of-figma-amsterdam/",
+      "summary": "Short real-world demonstrations of AI agents and Figma AI workflows.",
+      "source_url": "https://fig-events.figma.com/friends-of-figma-amsterdam/"
     },
     {
       "event_id": "evt-20261009-build-your-own-ai-agent-workshop-and-round-table",
@@ -62,11 +107,19 @@
       "end_datetime": "2026-10-09T18:00:00+02:00",
       "name": "Build Your Own AI Agent: Workshop and Round Table",
       "type": "AI Agents",
-      "description": "AI Agents event. 15:00–18:00 — Matrix ONE, Science Park 301.",
-      "speakers": [],
+      "description": "A hands-on session in which participants build a working AI agent with guidance from instructors; prior coding experience is not assumed. The second part is a round-table discussion with Ishan Singh about where AI is producing real value in marketing and where it remains hype or noise. The event is aimed especially at marketing directors, managers and agency leads who want direct experience before making adoption decisions.",
+      "speakers": [
+        {
+          "name": "Ishan Singh",
+          "role": "Marketing Lead",
+          "organization": "Uber"
+        }
+      ],
       "format": "in_person",
       "location": "Matrix ONE, Science Park 301",
-      "registration_url": "https://amsterdamdataacademy.com/ada-world-ai-week-2026/"
+      "registration_url": "https://amsterdamdataacademy.com/ada-world-ai-week-2026/",
+      "summary": "Hands-on workshop to build an AI agent, followed by a practical round table.",
+      "source_url": "https://amsterdamdataacademy.com/events/ada-world-ai-week-2026/"
     },
     {
       "event_id": "evt-20261012-2026-autumn-maptime",
@@ -75,11 +128,13 @@
       "end_datetime": "2026-10-12T21:30:00+02:00",
       "name": "2026 Autumn Maptime",
       "type": "Geospatial",
-      "description": "Geospatial analytics. Free. Community project showcases and practical OpenStreetMap mapping.",
+      "description": "A community mapping evening combining short project showcases with practical OpenStreetMap work. Attendees can share current mapping projects, learn from other local practitioners and join focused mapping sessions supporting humanitarian or local initiatives. The informal format makes it suitable for both experienced geospatial contributors and newcomers who want guided, hands-on mapping practice.",
       "speakers": [],
       "format": "in_person",
       "location": "TomTom, De Ruijterkade 154",
-      "registration_url": "https://www.meetup.com/maptime-ams/events/316610212/"
+      "registration_url": "https://www.meetup.com/maptime-ams/events/316610212/",
+      "summary": "Free community evening for mapping projects and practical OpenStreetMap work.",
+      "source_url": "https://www.meetup.com/maptime-ams/events/316610212/"
     },
     {
       "event_id": "evt-20261013-robot-con",
@@ -88,11 +143,29 @@
       "end_datetime": "2026-10-13T21:00:00+02:00",
       "name": "Robot-Con",
       "type": "Data & ML",
-      "description": "Robotics and AI. No fee listed. Robot demonstrations and a panel on AI in robotics.",
-      "speakers": [],
+      "description": "A large public robotics event featuring more than 30 robots from universities, companies, startups and public-sector teams. The programme includes an exhibition, RoboCup demonstrations, robot races, dance performances and other live showcases, alongside a panel discussing the cutting edge of artificial intelligence in robotics. Participating organizations include TU Delft, Vrije Universiteit Amsterdam, University of Amsterdam, Monumental, Nebius, the Dutch police and Prosus.",
+      "speakers": [
+        {
+          "name": "Sebas Visser",
+          "role": "Founder and CTO",
+          "organization": "Monumental"
+        },
+        {
+          "name": "Pepijn Kooijmans",
+          "role": "Open-source robotics initiative lead",
+          "organization": "Hugging Face"
+        },
+        {
+          "name": "Seb Vaessen",
+          "role": "Panel moderator and European venture investor",
+          "organization": "Prosus"
+        }
+      ],
       "format": "in_person",
       "location": "Sporthallen Zuid, Burgerweeshuispad 54",
-      "registration_url": "https://luma.com/cgm3rqrk"
+      "registration_url": "https://luma.com/cgm3rqrk",
+      "summary": "Robot demonstrations, competitions and a panel on AI in robotics.",
+      "source_url": "https://luma.com/cgm3rqrk"
     },
     {
       "event_id": "evt-20261014-ai-ai-everywhere-mcp-coding-harnesses-ai-tokenomics",
@@ -101,11 +174,24 @@
       "end_datetime": "2026-10-14T21:00:00+02:00",
       "name": "AI, AI everywhere: MCP, Coding harnesses & AI tokenomics",
       "type": "AI Agents",
-      "description": "AI Agents event. 17:00–21:00 — Conflux, Europalaan 93.",
-      "speakers": [],
+      "description": "A technical evening for developers working with AI-assisted software engineering. One session explains how to build and own a repository-aware coding harness instead of depending entirely on generic coding tools. Another examines Model Context Protocol under the hood, including how MCP tools connect agents to systems and how developers can structure those integrations. The programme is geared toward practical implementation rather than introductory AI commentary.",
+      "speakers": [
+        {
+          "name": "Alexander Chatzizacharias",
+          "role": "Software Engineer",
+          "organization": "JDriven"
+        },
+        {
+          "name": "Tim Visser",
+          "role": "Software Engineer",
+          "organization": "JDriven"
+        }
+      ],
       "format": "in_person",
       "location": "Conflux, Europalaan 93",
-      "registration_url": "https://www.meetup.com/nl-nl/conflux-connect-the-future-of-it/events/316294955/"
+      "registration_url": "https://www.meetup.com/nl-nl/conflux-connect-the-future-of-it/events/316294955/",
+      "summary": "Technical talks on coding harnesses, MCP and practical agent development.",
+      "source_url": "https://www.meetup.com/nl-nl/conflux-connect-the-future-of-it/events/316294955/"
     },
     {
       "event_id": "evt-20261014-advancedai-amsterdam",
@@ -114,11 +200,29 @@
       "end_datetime": "2026-10-14T20:30:00+02:00",
       "name": "AdvancedAI Amsterdam",
       "type": "AI Agents",
-      "description": "AI Agents event. 17:30–20:30 — Xebia, Wibautstraat 200.",
-      "speakers": [],
+      "description": "An advanced AI meetup covering three challenges in production agent systems. The sessions explore explainable workflows that expose structured reasoning, a memory architecture based on generative or “dreaming” processes rather than simple retrieval, and methods for grounding agent claims in evidence from an underlying data model. The programme is intended for practitioners interested in reliability, transparency and long-term context in AI applications.",
+      "speakers": [
+        {
+          "name": "Arman Kavian",
+          "role": null,
+          "organization": null
+        },
+        {
+          "name": "Florian Buetow",
+          "role": null,
+          "organization": null
+        },
+        {
+          "name": "Ricardo Granados Lopez",
+          "role": null,
+          "organization": null
+        }
+      ],
       "format": "in_person",
       "location": "Xebia, Wibautstraat 200",
-      "registration_url": "https://www.meetup.com/nl-nl/advancedai-amsterdam/events/316057180/"
+      "registration_url": "https://www.meetup.com/nl-nl/advancedai-amsterdam/events/316057180/",
+      "summary": "Advanced talks on explainable workflows, agent memory and grounded answers.",
+      "source_url": "https://www.meetup.com/nl-nl/advancedai-amsterdam/events/316057180/"
     },
     {
       "event_id": "evt-20261014-agentic-ai-for-self-service-analytics-build-or-buy",
@@ -127,11 +231,13 @@
       "end_datetime": "2026-10-14T21:00:00+02:00",
       "name": "Agentic AI for Self-Service Analytics: Build or Buy?",
       "type": "AI Agents",
-      "description": "AI agents and analytics. No fee listed. Practitioner panel on building or buying agentic AI for self-service analytics.",
+      "description": "A practitioner-focused panel examining whether organizations should build or buy agentic AI capabilities for self-service analytics. The discussion centers on real deployment experience, the trade-offs between internal development and vendor platforms, governance and operational challenges, and the practices needed to help business users obtain trustworthy answers from analytics agents.",
       "speakers": [],
       "format": "in_person",
       "location": "Adyen Rokin Office, Rokin 49",
-      "registration_url": "https://www.linkedin.com/events/agenticaiforselfserviceanalytic7505890305284530176/"
+      "registration_url": "https://www.linkedin.com/events/agenticaiforselfserviceanalytic7505890305284530176/",
+      "summary": "Practitioner panel on building or buying agentic self-service analytics.",
+      "source_url": "https://www.linkedin.com/events/agenticaiforselfserviceanalytic7505890305284530176/"
     },
     {
       "event_id": "evt-20261014-utrecht-jug-eval-driven-development-to-agentic-teams",
@@ -140,11 +246,24 @@
       "end_datetime": "2026-10-14T22:00:00+02:00",
       "name": "Utrecht JUG: Eval-Driven Development to Agentic Teams",
       "type": "AI Agents",
-      "description": "AI agents and evaluation. No fee listed. Technical talks on evaluation-driven development and agentic engineering teams.",
-      "speakers": [],
+      "description": "Two technical talks connect reliable agent development with new ways of organizing software teams. The first introduces evaluation-driven development using Java and Kotlin tooling such as Spring AI, LangChain4J, Koog and Dokimos, covering golden datasets, rubrics, traces, regression gates and continuous evaluation. The second presents iBOOD’s largely agentic engineering model, including short delivery cycles, guardrails, small teams and continuous delivery without conventional Scrum rituals, product ownership or routine pull-request reviews.",
+      "speakers": [
+        {
+          "name": "Urs Peters",
+          "role": "Senior Software Engineer and JetBrains-certified Kotlin Trainer",
+          "organization": null
+        },
+        {
+          "name": "Sander Hoogendoorn",
+          "role": "Chief Technology Officer",
+          "organization": "iBOOD"
+        }
+      ],
       "format": "in_person",
       "location": "Axxes, Europalaan 400",
-      "registration_url": "https://www.meetup.com/nl-nl/utrecht-java-user-group/events/316633671/"
+      "registration_url": "https://www.meetup.com/nl-nl/utrecht-java-user-group/events/316633671/",
+      "summary": "Technical talks on evaluation-driven agent development and agentic engineering teams.",
+      "source_url": "https://www.meetup.com/nl-nl/utrecht-java-user-group/events/316633671/"
     },
     {
       "event_id": "evt-20261014-enterprise-ai-in-practice-observability-and-governance",
@@ -153,11 +272,24 @@
       "end_datetime": "2026-10-14T21:00:00+02:00",
       "name": "Enterprise AI in Practice: Observability and Governance",
       "type": "AI Agents",
-      "description": "AI Agents event. 18:00–21:00 — Cisco Systems Netherlands, Haarlerbergweg 13-19.",
-      "speakers": [],
+      "description": "A practical enterprise-AI meetup covering both platform architecture and operational oversight. One session presents a secure AI platform that combines company knowledge, controlled tool use, workflows and multi-agent orchestration. The second focuses on observability for agents, including traces, evaluation, monitoring and cognitive governance, with the goal of making autonomous systems easier to understand, control and improve in production.",
+      "speakers": [
+        {
+          "name": "John-Paul Straver",
+          "role": "AI Architect",
+          "organization": "Trivium Packaging"
+        },
+        {
+          "name": "Boaz Kwakkel",
+          "role": "AI Observability Specialist",
+          "organization": null
+        }
+      ],
       "format": "in_person",
       "location": "Cisco Systems Netherlands, Haarlerbergweg 13-19",
-      "registration_url": "https://www.meetup.com/nl-nl/ai-guardians-dutch-chapter/events/316498489/"
+      "registration_url": "https://www.meetup.com/nl-nl/ai-guardians-dutch-chapter/events/316498489/",
+      "summary": "Enterprise AI talks on controlled agents, observability, evaluation and governance.",
+      "source_url": "https://www.meetup.com/nl-nl/ai-guardians-dutch-chapter/events/316498489/"
     },
     {
       "event_id": "evt-20261015-oct-15-ai-ml-and-computer-vision-meetup",
@@ -166,11 +298,34 @@
       "end_datetime": "2026-10-15T20:00:00+02:00",
       "name": "Oct 15 — AI, ML and Computer Vision Meetup",
       "type": "Data & ML",
-      "description": "Data & ML event. 18:00–20:00 — Online.",
-      "speakers": [],
+      "description": "An online programme of four technical talks. Topics include testing production AI systems for data quality, drift, monitoring and model performance; choosing device, edge or cloud deployment tiers for computer vision; reconstructing three-dimensional tumours from two-dimensional slices with YOLO-PVC; and a two-loop architecture for more reliable voice AI. The event spans applied machine-learning operations, edge inference, medical imaging and conversational AI.",
+      "speakers": [
+        {
+          "name": "Jayakumar Ramalingam",
+          "role": "Staff Software Engineer and Cloud Architect",
+          "organization": "SiriusXM"
+        },
+        {
+          "name": "Ajaykumaar Sivacoumare",
+          "role": "AI Software Engineer",
+          "organization": null
+        },
+        {
+          "name": "Talha Waqas",
+          "role": "PhD Student",
+          "organization": "ESME Research Lab and LISSI, Université Paris-Est"
+        },
+        {
+          "name": "Abhinav Tushar",
+          "role": "Machine Learning Engineer and Researcher",
+          "organization": null
+        }
+      ],
       "format": "online",
       "location": "Online",
-      "registration_url": "https://www.meetup.com/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316572395/"
+      "registration_url": "https://www.meetup.com/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316572395/",
+      "summary": "Four online technical talks spanning production AI, computer vision and voice systems.",
+      "source_url": "https://www.meetup.com/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316572395/"
     },
     {
       "event_id": "evt-20261022-from-design-to-shipped-a-modern-app-development-meetup",
@@ -179,11 +334,34 @@
       "end_datetime": "2026-10-22T21:30:00+02:00",
       "name": "From Design to Shipped: A Modern App Development Meetup",
       "type": "AI Agents",
-      "description": "Coding agents. Free. Production-level talks on design handoff, verification and agent-generated UI.",
-      "speakers": [],
+      "description": "A modern application-development meetup about using AI agents across the path from design to shipped software. The talks cover generating interfaces with lower-cost models plus a verification loop, agent-native workflows that connect Storybook and WebStorm, and cloud simulators in Expo and EAS that keep human review in the delivery process. The emphasis is on production practices for design handoff, testing and reliable shipping rather than one-off code generation demos.",
+      "speakers": [
+        {
+          "name": "Michał Pierzchała",
+          "role": "Principal Engineer",
+          "organization": "Callstack"
+        },
+        {
+          "name": "Craig Walker",
+          "role": "Product Manager",
+          "organization": "JetBrains"
+        },
+        {
+          "name": "Kasper Peulen",
+          "role": "Software Engineer",
+          "organization": "Chromatic"
+        },
+        {
+          "name": "Cedric van Putten",
+          "role": null,
+          "organization": "Expo"
+        }
+      ],
       "format": "in_person",
       "location": "JetBrains Amsterdam; address after registration",
-      "registration_url": "https://luma.com/i8wkxgyg"
+      "registration_url": "https://luma.com/i8wkxgyg",
+      "summary": "Production talks on agent-generated UI, design handoff, review and verification.",
+      "source_url": "https://luma.com/i8wkxgyg"
     },
     {
       "event_id": "evt-20261027-ai-inference-in-the-real-world",
@@ -192,11 +370,24 @@
       "end_datetime": "2026-10-27T21:00:00+01:00",
       "name": "AI Inference in the Real World",
       "type": "Data & ML",
-      "description": "ML infrastructure. No fee listed. Practical CPU, GPU, Kubernetes and disconnected edge inference.",
-      "speakers": [],
+      "description": "A practical infrastructure meetup about deploying AI inference outside controlled demos. One talk compares CPU and GPU options and explores hybrid small- and large-language-model workloads on Amazon EKS, with attention to price and performance. The other covers immutable inference at disconnected edge locations, including atomic image updates, rollback and operational patterns for factories, vehicles and retail environments.",
+      "speakers": [
+        {
+          "name": "Christian Melendez",
+          "role": "Principal Specialist Solutions Architect",
+          "organization": "AWS"
+        },
+        {
+          "name": "William Rizzo",
+          "role": "Global Field CTO",
+          "organization": "Mirantis"
+        }
+      ],
       "format": "in_person",
       "location": "AWS Amsterdam, Mr. Treublaan 7",
-      "registration_url": "https://www.meetup.com/ai-native-amsterdam/events/315395408/"
+      "registration_url": "https://www.meetup.com/ai-native-amsterdam/events/315395408/",
+      "summary": "Practical talks on CPU/GPU economics, Kubernetes and disconnected edge inference.",
+      "source_url": "https://www.meetup.com/ai-native-amsterdam/events/315395408/"
     },
     {
       "event_id": "evt-20261029-how-to-build-vision-data-agents-with-tools-skills-and-mcp",
@@ -205,11 +396,19 @@
       "end_datetime": "2026-10-29T18:00:00+01:00",
       "name": "How to Build Vision Data Agents with Tools, Skills, and MCP",
       "type": "AI Agents",
-      "description": "Computer vision and AI agents. No fee listed. Production data agents using tools, skills and MCP.",
-      "speakers": [],
+      "description": "A technical online session on building production agents that work with computer-vision and machine-learning data. It covers how tools, reusable skills and Model Context Protocol can connect an agent to dataset operations, embeddings, evaluation and inference. The session also addresses automated data curation and the guardrails needed when agents take actions across a vision-data workflow.",
+      "speakers": [
+        {
+          "name": "Adonai Vera",
+          "role": null,
+          "organization": "Voxel51"
+        }
+      ],
       "format": "online",
       "location": "Online",
-      "registration_url": "https://voxel51.com/events/how-to-build-vision-data-agents-with-tools-skills-and-mcp-october-29-2026"
+      "registration_url": "https://voxel51.com/events/how-to-build-vision-data-agents-with-tools-skills-and-mcp-october-29-2026",
+      "summary": "Online session on production vision-data agents using tools, skills and MCP.",
+      "source_url": "https://voxel51.com/events/how-to-build-vision-data-agents-with-tools-skills-and-mcp-october-29-2026"
     },
     {
       "event_id": "evt-20261030-what-your-ai-cant-see",
@@ -218,11 +417,19 @@
       "end_datetime": "2026-10-30T10:00:00+01:00",
       "name": "What Your AI Can’t See",
       "type": "Data & ML",
-      "description": "ML engineering and coding agents. Free. Hands-on workshop on improving AI coding reliability with project context.",
-      "speakers": [],
+      "description": "A hands-on workshop demonstrating why coding assistants fail when they cannot see enough project context. Using Claude Code, participants examine common blind spots, create and improve a CLAUDE.md context file, and apply a four-part workflow covering scope, success criteria, planning and verification. The techniques also transfer to tools such as GitHub Copilot, Cursor and Gemini, with examples relevant to data-science, machine-learning and analytics engineering projects.",
+      "speakers": [
+        {
+          "name": "Cihan Yatbaz",
+          "role": "Data Science Educator",
+          "organization": "Xebia Academy"
+        }
+      ],
       "format": "in_person",
       "location": "Xebia, Wibautstraat 200",
-      "registration_url": "https://godatafest.com/workshops/what-your-ai-cant-see/"
+      "registration_url": "https://godatafest.com/workshops/what-your-ai-cant-see/",
+      "summary": "Hands-on workshop on making AI coding assistants more reliable with project context.",
+      "source_url": "https://godatafest.com/workshops/what-your-ai-cant-see/"
     }
   ]
 }
