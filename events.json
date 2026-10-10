@@ -514,6 +514,287 @@
       "location": "Online via Microsoft Reactor",
       "registration_url": "https://developer.microsoft.com/en-us/reactor/events/27655/",
       "source_url": "https://developer.microsoft.com/en-us/reactor/events/27655/"
+    },
+    {
+      "event_id": "evt-20261019-ai-big-data-expo-europe",
+      "date": "2026-10-19",
+      "start_datetime": "2026-10-19T08:45:00+02:00",
+      "end_datetime": "2026-10-20T16:00:00+02:00",
+      "name": "AI & Big Data Expo Europe",
+      "type": "Data & ML",
+      "summary": "Two-day enterprise AI and data conference with free builder and developer tracks at RAI Amsterdam.",
+      "description": "A two-day conference and exhibition for enterprise practitioners moving generative AI, autonomous agents and data platforms from pilots into production. The programme includes free AI Builder and AI Developer stages, paid leadership, enterprise AI, data and analytics tracks, an Agentic AI Pavilion, an AI hackathon, learning sessions and demonstrations across several co-located technology events. Topics include agent platforms and orchestration, AI governance and security, enterprise infrastructure, physical AI, machine learning and large-scale data systems. The event is designed for developers, data and AI specialists, technology leaders and teams evaluating production AI platforms. A free pass covers the exhibition and selected free stages; paid Gold access covers the complete conference programme.",
+      "speakers": [
+        {
+          "name": "Shruti Sharma",
+          "role": "Chief Data & AI Officer",
+          "organization": "Save the Children UK"
+        },
+        {
+          "name": "Claudio Gienal",
+          "role": "Chief Transformation Officer",
+          "organization": "AXA Europe & Health"
+        },
+        {
+          "name": "Vincent Decugis",
+          "role": "Chief Data Officer",
+          "organization": "BNP Paribas Europe-Mediterranean"
+        },
+        {
+          "name": "Aatish Kumar",
+          "role": "Head of Data & AI",
+          "organization": "Eneco Energy"
+        },
+        {
+          "name": "Daniel Gebler",
+          "role": "Chief Technology Officer",
+          "organization": "Picnic"
+        },
+        {
+          "name": "Nathalia Beekman",
+          "role": "Chief Data Officer",
+          "organization": "Shell"
+        },
+        {
+          "name": "Shahin Shahkarami",
+          "role": "Global VP of AI & Automation",
+          "organization": "IKEA"
+        },
+        {
+          "name": "Anindita Misra",
+          "role": "Global Director, Data & Applied AI/ML",
+          "organization": "Brenntag"
+        },
+        {
+          "name": "Frank Kartmann",
+          "role": "VP Big Data & Cloud Architecture",
+          "organization": "Deutsche Bank"
+        },
+        {
+          "name": "Huy Dao",
+          "role": "Vice President of Platform Engineering",
+          "organization": "Preply"
+        }
+      ],
+      "format": "in-person",
+      "location": "RAI Amsterdam, Europaplein 24, 1078 GZ Amsterdam",
+      "registration_url": "https://www.ai-expo.net/europe/registration/",
+      "source_url": "https://www.ai-expo.net/europe/"
+    },
+    {
+      "event_id": "evt-20261021-ai-builders-amsterdam",
+      "date": "2026-10-21",
+      "start_datetime": "2026-10-21T17:30:00+02:00",
+      "end_datetime": "2026-10-21T21:00:00+02:00",
+      "name": "AI Builders Amsterdam",
+      "type": "AI Agents",
+      "summary": "Technical builder meetup on LLM benchmarking and running a local legal-research agent.",
+      "description": "An in-person technical meetup for engineers, founders, product practitioners, data specialists and machine-learning engineers actively building with generative AI. After the walk-in and community meal, Arian Pasquali demonstrates Orq Arena for benchmarking large language models head-to-head using participants' own prompts. Alex Amin then presents a legal-research agent running locally with Gemma 4, illustrating the trade-offs involved in moving an agent from cloud infrastructure to a local deployment. The programme closes with open discussion and networking. Tickets use a suggested-price model with a name-your-own-price option, and the Student or Bootstrapper option requires organizer approval.",
+      "speakers": [
+        {
+          "name": "Arian Pasquali",
+          "role": "Speaker",
+          "organization": "Orq.ai"
+        },
+        {
+          "name": "Alex Amin",
+          "role": "Speaker",
+          "organization": "ML6"
+        }
+      ],
+      "format": "in-person",
+      "location": "StartDock Coworking Prins Hendrikkade, Prins Hendrikkade 21e, 1012 TL Amsterdam",
+      "registration_url": "https://luma.com/ams-oct21",
+      "source_url": "https://luma.com/ams-oct21"
+    },
+    {
+      "event_id": "evt-20261027-ai-tinkerers-amsterdam-demo-night",
+      "date": "2026-10-27",
+      "start_datetime": "2026-10-27T18:00:00+01:00",
+      "end_datetime": "2026-10-27T21:00:00+01:00",
+      "name": "AI Tinkerers Amsterdam: October Demo Night",
+      "type": "AI Agents",
+      "summary": "Screened, demo-first meetup featuring applied generative-AI systems and production lessons.",
+      "description": "A three-hour in-person demo night for screened AI builders, engineers, researchers, founders and product developers. Local practitioners will present working generative-AI systems and share concrete production lessons, architecture decisions, failures and implementation details, followed by technical questions, networking and refreshments. The Amsterdam chapter is explicitly demo-first and no-pitch: projects are expected to show real prototypes or code rather than sales decks or general thought leadership. The broader community focuses on agents, multimodal and voice interfaces, retrieval systems, AI coding tools, workflow automation, evaluation, observability and production AI infrastructure. Attendance requires applying and being accepted; the address is shared with accepted attendees.",
+      "speakers": [],
+      "format": "in-person",
+      "location": "Amsterdam; address shared after attendance approval",
+      "registration_url": "https://amsterdam.aitinkerers.org/p/ai-tinkerers-amsterdam-october-demo-night",
+      "source_url": "https://amsterdam.aitinkerers.org/p/ai-tinkerers-amsterdam-october-demo-night"
+    },
+    {
+      "event_id": "evt-20261015-aaif-agent-accuracy-reliability-summit",
+      "date": "2026-10-15",
+      "start_datetime": "2026-10-15T17:00:00+02:00",
+      "end_datetime": "2026-10-15T19:00:00+02:00",
+      "name": "Accuracy & Reliability of AI Agents: Virtual Summit",
+      "type": "AI Agents",
+      "summary": "Technical virtual summit on evaluating, verifying and operating dependable AI agents.",
+      "description": "A virtual summit from the Agentic AI Foundation Accuracy and Reliability Working Group about the gap between impressive agent demonstrations and dependable real-world systems. Practitioners and researchers examine how agent reliability differs from raw capability, what current evaluations and benchmarks can measure, where they fail to represent production behaviour, and how teams investigate failures. The agenda includes talks on a science of agent reliability, infrastructure that lets agents safely experiment with machine-learning systems, hidden cognitive failures in multi-agent systems and durable execution that persists each step so workflows can resume safely without repeating side effects. The programme combines presentations with an open technical discussion about verification, failure analysis and lessons from deployed agent systems.",
+      "speakers": [
+        {
+          "name": "Rahul Parundekar",
+          "role": "Founder",
+          "organization": "A.I. Hero, Inc."
+        },
+        {
+          "name": "Sanjeev Suresh",
+          "role": "Staff ML Engineer",
+          "organization": "Uber"
+        },
+        {
+          "name": "Stephan Rabanser",
+          "role": "Postdoctoral Researcher",
+          "organization": "Princeton University"
+        },
+        {
+          "name": "Giulio Grassi",
+          "role": "Engineering Technical Leader",
+          "organization": "Cisco Systems"
+        },
+        {
+          "name": "Nikhil Simha",
+          "role": "Chief Technology Officer",
+          "organization": "Zipline AI"
+        },
+        {
+          "name": "Casper Nielsen",
+          "role": "AI Engineering Team Lead",
+          "organization": "Diagrid"
+        }
+      ],
+      "format": "online",
+      "location": "Online",
+      "registration_url": "https://home.mlops.community/public/events/accuracy-and-reliability-of-ai-agents-virtual-summit-77nje0s530",
+      "source_url": "https://home.mlops.community/public/events/accuracy-and-reliability-of-ai-agents-virtual-summit-77nje0s530"
+    },
+    {
+      "event_id": "evt-20261014-advances-ai-sdsu",
+      "date": "2026-10-14",
+      "start_datetime": "2026-10-14T18:00:00+02:00",
+      "end_datetime": "2026-10-14T20:00:00+02:00",
+      "name": "Advances in AI at SDSU",
+      "type": "Data & ML",
+      "summary": "Research meetup on agent-controlled robots, open-world multimodal learning and autonomous maritime sensing.",
+      "description": "An online research meetup featuring three technical presentations across physical AI, computer vision and autonomous systems. The first introduces Agent as Policy, an approach in which a general-purpose agent plans and controls a physical robot without task-specific or environment-specific training. The second examines multimodal open-world learning for robots, unmanned vehicles and embodied agents, focusing on out-of-distribution detection, distribution shifts and cascaded semantic grounding in unpredictable environments. The final talk presents model-free, position-free extremum-seeking methods that guide low-cost autonomous maritime vehicles toward signal sources in unknown, non-convex environments. The programme is intended for AI researchers, machine-learning and robotics engineers, and practitioners working on perception and autonomous systems.",
+      "speakers": [
+        {
+          "name": "Xiaobai Liu",
+          "role": "Professor of Computer Science",
+          "organization": "San Diego State University"
+        },
+        {
+          "name": "Salimeh Sekeh",
+          "role": "Associate Professor of Computer Science",
+          "organization": "San Diego State University"
+        },
+        {
+          "name": "Mary Wisell",
+          "role": "PhD Student",
+          "organization": "San Diego State University"
+        },
+        {
+          "name": "Zahra Nili Ahmadabadi",
+          "role": "Associate Professor of Mechanical Engineering",
+          "organization": "San Diego State University"
+        }
+      ],
+      "format": "online",
+      "location": "Online via Zoom",
+      "registration_url": "https://voxel51.com/events/advances-in-ai-at-sdsu-october-14-2026",
+      "source_url": "https://voxel51.com/events/advances-in-ai-at-sdsu-october-14-2026"
+    },
+    {
+      "event_id": "evt-20261012-voice-agents-upgraded-foundry",
+      "date": "2026-10-12",
+      "start_datetime": "2026-10-12T19:30:00+02:00",
+      "end_datetime": "2026-10-12T20:30:00+02:00",
+      "name": "Voice Agents Upgraded: New Speech Models and Agent Experience in Foundry",
+      "type": "AI Agents",
+      "summary": "Microsoft Reactor demo on building, testing and optimizing a voice agent with new speech models.",
+      "description": "A Microsoft Reactor livestream demonstrating how spoken-language models can power transcription, real-time voice interaction and accessible conversational interfaces. The presenters build a voice agent from start to finish in the Microsoft Foundry playground, covering configuration, testing, monitoring and optimization. They also review recent speech-to-text, text-to-speech and speech-to-speech capabilities in Azure Speech and Microsoft Foundry, including new Microsoft AI models, and explain how these components can make voice agents more natural and responsive. The session is presented in English for developers and practitioners building agentic applications.",
+      "speakers": [
+        {
+          "name": "Irene Du",
+          "role": "Senior Product Marketing Manager",
+          "organization": "Microsoft"
+        },
+        {
+          "name": "Jacky Kang",
+          "role": "Principal Program Manager",
+          "organization": "Microsoft"
+        },
+        {
+          "name": "Sharmila Chockalingam",
+          "role": "Director of Product Marketing",
+          "organization": "Microsoft"
+        },
+        {
+          "name": "Tanvi Tushar Shah",
+          "role": "Principal Product Manager",
+          "organization": "Microsoft"
+        },
+        {
+          "name": "Yiwen Rong",
+          "role": "Principal Product Manager",
+          "organization": "Microsoft"
+        },
+        {
+          "name": "Gustavo Cordido",
+          "role": "Cloud Advocate",
+          "organization": "Microsoft"
+        },
+        {
+          "name": "Nitya Narasimhan",
+          "role": "Senior Cloud Advocate",
+          "organization": "Microsoft"
+        }
+      ],
+      "format": "online",
+      "location": "Online via Microsoft Reactor",
+      "registration_url": "https://reactor.microsoft.com/en-us/reactor/events/27565/",
+      "source_url": "https://reactor.microsoft.com/en-us/reactor/events/27565/"
+    },
+    {
+      "event_id": "evt-20261013-agents-take-action-azure",
+      "date": "2026-10-13",
+      "start_datetime": "2026-10-13T17:00:00+02:00",
+      "end_datetime": "2026-10-13T18:00:00+02:00",
+      "name": "Agents That Take Action: Secure Enterprise Integration with Azure",
+      "type": "AI Agents",
+      "summary": "Technical Microsoft session on safely connecting agents to enterprise APIs, tools and workflows.",
+      "description": "A Microsoft Reactor livestream about giving enterprise agents useful capabilities without allowing uncontrolled access to backend systems. The session connects a Microsoft Foundry agent to Azure API Management, Logic Apps, Functions, Service Bus, OpenAPI tools and Model Context Protocol servers. A worked scenario creates an incident ticket, initiates an approval workflow, calls a protected business API, submits a long-running remediation command and returns the outcome to the user. The architecture introduces typed tool contracts, authentication, authorization, rate limiting, schema validation, retries and centralized logging, while managed identities and Microsoft Entra ID remove embedded keys and enforce least privilege. Attendees learn how OpenAPI, MCP, serverless actions and asynchronous messaging fit into a governed agent integration layer.",
+      "speakers": [],
+      "format": "online",
+      "location": "Online via Microsoft Reactor",
+      "registration_url": "https://developer.microsoft.com/en-us/reactor/events/27509/",
+      "source_url": "https://developer.microsoft.com/en-us/reactor/events/27509/"
+    },
+    {
+      "event_id": "evt-20261103-human-centric-ai-finance-payments",
+      "date": "2026-11-03",
+      "start_datetime": "2026-11-03T09:30:00+01:00",
+      "end_datetime": "2026-11-03T17:30:00+01:00",
+      "name": "The New Frontier: Human-Centric AI in the Future of Finance and Payments",
+      "type": "AI Governance",
+      "summary": "AI House conference on responsible, inclusive AI transformation in finance and payments.",
+      "description": "The European Women Payments Network annual conference brings together financial-services leaders, innovators and change-makers to examine how artificial intelligence is reshaping finance and payments while keeping systems ethical, inclusive and human-centred. The programme addresses AI-era sector resilience, responsible system design, governance and regulation, designing payment infrastructure for agent-mediated transactions, distinguishing AI-native products from superficial AI claims, and preserving consent, control and accessibility as automated services expand. A confirmed spotlight session presents a system-level assessment of resilience in UK financial services and proposes practical shifts for the industry as it lays the foundations for the AI era. The event is hosted at AI House Amsterdam and is aimed at professionals working across fintech, payments, AI transformation, governance and responsible innovation.",
+      "speakers": [
+        {
+          "name": "Nadia Edwards-Dashti",
+          "role": "Author and Spotlight Speaker",
+          "organization": "Think Again"
+        },
+        {
+          "name": "Samantha Emery",
+          "role": "Author and Spotlight Speaker",
+          "organization": "Think Again"
+        }
+      ],
+      "format": "in-person",
+      "location": "AI House Amsterdam, Gustav Mahlerplein 5, 1082 MS Amsterdam",
+      "registration_url": "https://luma.com/k4uoeopk",
+      "source_url": "https://www.aihouse.nl/events"
     }
   ]
 }
