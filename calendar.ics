@@ -513,4 +513,84 @@ LOCATION:Online via Microsoft Reactor
 DESCRIPTION:AI agents. No fee listed\; registration required. Livestream on agents that reason\, plan\, automate and collaborate with users in modern workplaces. Registration: https://developer.microsoft.com/en-us/reactor/events/27655/
 URL:https://developer.microsoft.com/en-us/reactor/events/27655/
 END:VEVENT
+BEGIN:VEVENT
+UID:ai-big-data-expo-europe-2026@amsai.events
+DTSTAMP:20261010T071500Z
+DTSTART:20261019T064500Z
+DTEND:20261020T140000Z
+SUMMARY:AI & Big Data Expo Europe
+LOCATION:RAI Amsterdam\, Europaplein 24\, 1078 GZ Amsterdam
+DESCRIPTION:Topic: Data & ML. Free pass available\; paid Gold tracks optional. Two-day enterprise AI and data conference with free builder and developer tracks at RAI Amsterdam. Registration: https://www.ai-expo.net/europe/registration/
+URL:https://www.ai-expo.net/europe/registration/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-builders-amsterdam-20261021@amsai.events
+DTSTAMP:20261010T071500Z
+DTSTART:20261021T153000Z
+DTEND:20261021T190000Z
+SUMMARY:AI Builders Amsterdam
+LOCATION:StartDock Coworking Prins Hendrikkade\, Prins Hendrikkade 21e\, 1012 TL Amsterdam
+DESCRIPTION:Topic: AI Agents. Suggested-price tickets\; name your own price at checkout. Technical builder meetup on LLM benchmarking and running a local legal-research agent. Registration: https://luma.com/ams-oct21
+URL:https://luma.com/ams-oct21
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-tinkerers-amsterdam-20261027@amsai.events
+DTSTAMP:20261010T071500Z
+DTSTART:20261027T170000Z
+DTEND:20261027T200000Z
+SUMMARY:AI Tinkerers Amsterdam: October Demo Night
+LOCATION:Amsterdam\; address shared after attendance approval
+DESCRIPTION:Topic: AI Agents. No fee listed\; attendance application required. Screened\, demo-first meetup featuring applied generative-AI systems and production lessons. Registration: https://amsterdam.aitinkerers.org/p/ai-tinkerers-amsterdam-october-demo-night
+URL:https://amsterdam.aitinkerers.org/p/ai-tinkerers-amsterdam-october-demo-night
+END:VEVENT
+BEGIN:VEVENT
+UID:aaif-agent-reliability-summit-20261015@amsai.events
+DTSTAMP:20261010T071500Z
+DTSTART:20261015T150000Z
+DTEND:20261015T170000Z
+SUMMARY:Accuracy & Reliability of AI Agents: Virtual Summit
+LOCATION:Online
+DESCRIPTION:Topic: AI Agents. No fee listed. Technical virtual summit on evaluating\, verifying and operating dependable AI agents. Registration: https://home.mlops.community/public/events/accuracy-and-reliability-of-ai-agents-virtual-summit-77nje0s530
+URL:https://home.mlops.community/public/events/accuracy-and-reliability-of-ai-agents-virtual-summit-77nje0s530
+END:VEVENT
+BEGIN:VEVENT
+UID:advances-ai-sdsu-20261014@amsai.events
+DTSTAMP:20261010T071500Z
+DTSTART:20261014T160000Z
+DTEND:20261014T180000Z
+SUMMARY:Advances in AI at SDSU
+LOCATION:Online via Zoom
+DESCRIPTION:Topic: Data & ML. No fee listed\; Zoom registration required. Research meetup on agent-controlled robots\, open-world multimodal learning and autonomous maritime sensing. Registration: https://voxel51.com/events/advances-in-ai-at-sdsu-october-14-2026
+URL:https://voxel51.com/events/advances-in-ai-at-sdsu-october-14-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:voice-agents-upgraded-20261012@amsai.events
+DTSTAMP:20261010T071500Z
+DTSTART:20261012T173000Z
+DTEND:20261012T183000Z
+SUMMARY:Voice Agents Upgraded: New Speech Models and Agent Experience in Foundry
+LOCATION:Online via Microsoft Reactor
+DESCRIPTION:Topic: AI Agents. No fee listed\; registration required. Microsoft Reactor demo on building\, testing and optimizing a voice agent with new speech models. Registration: https://reactor.microsoft.com/en-us/reactor/events/27565/
+URL:https://reactor.microsoft.com/en-us/reactor/events/27565/
+END:VEVENT
+BEGIN:VEVENT
+UID:agents-take-action-azure-20261013@amsai.events
+DTSTAMP:20261010T071500Z
+DTSTART:20261013T150000Z
+DTEND:20261013T160000Z
+SUMMARY:Agents That Take Action: Secure Enterprise Integration with Azure
+LOCATION:Online via Microsoft Reactor
+DESCRIPTION:Topic: AI Agents. No fee listed\; registration required. Technical Microsoft session on safely connecting agents to enterprise APIs\, tools and workflows. Registration: https://developer.microsoft.com/en-us/reactor/events/27509/
+URL:https://developer.microsoft.com/en-us/reactor/events/27509/
+END:VEVENT
+BEGIN:VEVENT
+UID:ewpn-human-centric-ai-20261103@amsai.events
+DTSTAMP:20261010T071500Z
+DTSTART:20261103T083000Z
+DTEND:20261103T163000Z
+SUMMARY:The New Frontier: Human-Centric AI in the Future of Finance and Payments
+LOCATION:AI House Amsterdam\, Gustav Mahlerplein 5\, 1082 MS Amsterdam
+DESCRIPTION:Topic: AI Governance. No fee listed. AI House conference on responsible\, inclusive AI transformation in finance and payments. Registration: https://luma.com/k4uoeopk
+URL:https://luma.com/k4uoeopk
+END:VEVENT
 END:VCALENDAR
