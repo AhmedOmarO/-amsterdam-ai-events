@@ -593,4 +593,14 @@ LOCATION:AI House Amsterdam\, Gustav Mahlerplein 5\, 1082 MS Amsterdam
 DESCRIPTION:Topic: AI Governance. No fee listed. AI House conference on responsible\, inclusive AI transformation in finance and payments. Registration: https://luma.com/k4uoeopk
 URL:https://luma.com/k4uoeopk
 END:VEVENT
+BEGIN:VEVENT
+UID:aaif-uber-inside-michelangelo-20261021@amsai.events
+DTSTAMP:20261013T200700Z
+DTSTART:20261021T160000Z
+DTEND:20261021T193000Z
+SUMMARY:AAIF x Uber: Inside Michelangelo
+LOCATION:Uber Amsterdam\, Burgerweeshuispad 301 H\, 1076 HV Amsterdam
+DESCRIPTION:Topic: Data & ML. No fee listed\; registration required. Technical evening on Uber's open-source Michelangelo platform for production ML\, LLMs and agents. Registration: https://luma.com/aaif-5foe
+URL:https://luma.com/aaif-5foe
+END:VEVENT
 END:VCALENDAR
