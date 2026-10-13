@@ -795,6 +795,21 @@
       "location": "AI House Amsterdam, Gustav Mahlerplein 5, 1082 MS Amsterdam",
       "registration_url": "https://luma.com/k4uoeopk",
       "source_url": "https://www.aihouse.nl/events"
+    },
+    {
+      "event_id": "evt-20261021-aaif-uber-inside-michelangelo",
+      "date": "2026-10-21",
+      "start_datetime": "2026-10-21T18:00:00+02:00",
+      "end_datetime": "2026-10-21T21:30:00+02:00",
+      "name": "AAIF x Uber: Inside Michelangelo",
+      "type": "Data & ML",
+      "summary": "Technical evening on Uber's open-source Michelangelo platform for production ML, LLMs and agents.",
+      "description": "A technical evening hosted by the Agentic AI Foundation Community Amsterdam and Uber about Michelangelo, the machine-learning platform behind production systems such as estimated arrival times, pricing and fraud detection. The programme explains how the platform evolved from tree-based models through deep learning and large language models to agent workloads, and what Uber learned while operating machine learning at global scale. Sessions will cover Michelangelo's Kubernetes-native architecture, Python-first pipelines with Uniflow, federated compute across clouds, production model serving, and the way LLM and agent workloads run on the same platform. The organizers will also walk through the Apache 2.0 open-source release, explain how teams can use or contribute to it, and discuss concrete architectural trade-offs and production numbers rather than presenting a product pitch. The event is intended for machine-learning and platform engineers, data scientists, technical leads and others building ML or agent infrastructure. Food, drinks and community discussion are included.",
+      "speakers": [],
+      "format": "in-person",
+      "location": "Uber Amsterdam, Burgerweeshuispad 301 H, 1076 HV Amsterdam",
+      "registration_url": "https://luma.com/aaif-5foe",
+      "source_url": "https://luma.com/aaif-5foe"
     }
   ]
 }
