@@ -603,4 +603,64 @@ LOCATION:Uber Amsterdam\, Burgerweeshuispad 301 H\, 1076 HV Amsterdam
 DESCRIPTION:Topic: Data & ML. No fee listed\; registration required. Technical evening on Uber's open-source Michelangelo platform for production ML\, LLMs and agents. Registration: https://luma.com/aaif-5foe
 URL:https://luma.com/aaif-5foe
 END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261110-saaf-security-challenge@amsai.events
+DTSTAMP:20261028T000000Z
+DTSTART:20261110T080000Z
+DTEND:20261110T163000Z
+SUMMARY:SAAF Security Challenge: Help Secure Our Agents
+LOCATION:Mollie\, Amsterdam\; exact address shared after attendance approval
+DESCRIPTION:Topic: AI Agents. Price: Free\; organizer approval required. Hands-on red-team and defence hackathon for open-source audit and compliance agents. Registration: https://luma.com/tag-rb3x
+URL:https://luma.com/tag-rb3x
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261112-ddma-dashboard-to-dialogue@amsai.events
+DTSTAMP:20261028T000000Z
+DTSTART:20261112T143000Z
+DTEND:20261112T180000Z
+SUMMARY:DDMA Digital Analytics Meetup: From Dashboard to Dialogue
+LOCATION:Digital Power\, H.J.E. Wenckebachweg 123\, 1096 AM Amsterdam
+DESCRIPTION:Topic: Data & ML. Price: Free. Practical meetup on conversational analytics\, Databricks Genie and the continuing role of analysts. Registration: https://ddma.nl/event/ddma-digital-analytics-meetup-from-dashboard-to-dialogue/
+URL:https://ddma.nl/event/ddma-digital-analytics-meetup-from-dashboard-to-dialogue/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261118-ai-agents-ran-challenge@amsai.events
+DTSTAMP:20261028T000000Z
+DTSTART:20261118T130000Z
+DTEND:20261118T140000Z
+SUMMARY:Introducing the AI Agents for RAN Challenge: From Diagnosis to Optimization
+LOCATION:Online via AI for Good
+DESCRIPTION:Topic: AI Agents. Price: No fee listed\; registration required. Technical launch of a challenge for agents that diagnose and optimize radio-access networks. Registration: https://aiforgood.itu.int/event/introducing-the-ai-agents-for-ran-challenge-from-diagnosis-to-optimization/
+URL:https://aiforgood.itu.int/event/introducing-the-ai-agents-for-ran-challenge-from-diagnosis-to-optimization/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261103-esri-earth-sciences-ai-assistants@amsai.events
+DTSTAMP:20261028T000000Z
+DTSTART:20261103T170000Z
+DTEND:20261103T180000Z
+SUMMARY:Accelerating Earth Sciences Workflows with AI Assistants
+LOCATION:Online via Esri
+DESCRIPTION:Topic: Geospatial AI. Price: No fee listed\; registration required. Esri webinar on AI-assisted geospatial workflows from earth observation to operational decisions. Registration: https://www.esri.com/en-us/webinars/industry/science/ai-geospatial-workflows-earth-sciences/accelerating-earth-sciences-workflows-with-ai-assistants
+URL:https://www.esri.com/en-us/webinars/industry/science/ai-geospatial-workflows-earth-sciences/accelerating-earth-sciences-workflows-with-ai-assistants
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261105-uu-language-models-scientific-culture@amsai.events
+DTSTAMP:20261028T000000Z
+DTSTART:20261105T143000Z
+DTEND:20261105T153000Z
+SUMMARY:Language Models and the Homogenization of Scientific Culture
+LOCATION:Online
+DESCRIPTION:Topic: Data & ML. Price: No fee listed\; registration required. Research lecture on how LLM use may homogenize scientific writing and complicate institutional policy. Registration: https://www.uu.nl/en/events/language-models-and-the-homogenization-of-scientific-culture
+URL:https://www.uu.nl/en/events/language-models-and-the-homogenization-of-scientific-culture
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261105-ai-sciencepark-creative-industry@amsai.events
+DTSTAMP:20261028T000000Z
+DTSTART:20261105T150000Z
+DTEND:20261105T160000Z
+SUMMARY:AI at Sciencepark: The Future of AI in the Creative Industry
+LOCATION:LAB42\, room L3.36\, Science Park 900\, 1098 XH Amsterdam
+DESCRIPTION:Topic: AI Governance. Price: Free\; registration required. Cross-disciplinary discussion on AI in animation\, authorship\, copyright and creative ownership. Registration: https://luma.com/m133cxwh
+URL:https://luma.com/m133cxwh
+END:VEVENT
 END:VCALENDAR
