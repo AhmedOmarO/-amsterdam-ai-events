@@ -810,6 +810,156 @@
       "location": "Uber Amsterdam, Burgerweeshuispad 301 H, 1076 HV Amsterdam",
       "registration_url": "https://luma.com/aaif-5foe",
       "source_url": "https://luma.com/aaif-5foe"
+    },
+    {
+      "event_id": "evt-20261110-saaf-security-challenge",
+      "date": "2026-11-10",
+      "start_datetime": "2026-11-10T09:00:00+01:00",
+      "end_datetime": "2026-11-10T17:30:00+01:00",
+      "name": "SAAF Security Challenge: Help Secure Our Agents",
+      "type": "AI Agents",
+      "summary": "Hands-on red-team and defence hackathon for open-source audit and compliance agents.",
+      "description": "A one-day security challenge at Mollie for roughly 100 auditors, developers and security specialists who will test and harden open-source agents from the Shared Audit Agents Framework. Red teams from Prosus and Skuridat will demonstrate live attacks against agents used in audit, risk and compliance, after which mixed teams will work across the repository to build practical defences. The programme starts with coffee and red-team demonstrations, continues with collaborative hardening work before and after lunch, and closes with demos, a wrap-up and networking drinks. The event is designed to combine domain knowledge about what audit agents must never do with engineering and ethical-hacking skills needed to make those protections real.",
+      "speakers": [],
+      "format": "in-person",
+      "location": "Mollie, Amsterdam; exact address shared after attendance approval",
+      "registration_url": "https://luma.com/tag-rb3x",
+      "source_url": "https://luma.com/tag-rb3x"
+    },
+    {
+      "event_id": "evt-20261112-ddma-dashboard-to-dialogue",
+      "date": "2026-11-12",
+      "start_datetime": "2026-11-12T15:30:00+01:00",
+      "end_datetime": "2026-11-12T19:00:00+01:00",
+      "name": "DDMA Digital Analytics Meetup: From Dashboard to Dialogue",
+      "type": "Data & ML",
+      "summary": "Practical meetup on conversational analytics, Databricks Genie and the continuing role of analysts.",
+      "description": "A DDMA and Digital Power meetup examining how conversational analytics changes access to organizational data and what is required for reliable natural-language answers. Saskia Heyster compares analysts, Databricks Genie and Genie supported by a semantic layer across realistic web-tracking questions, assessing accuracy, speed, nuance and confidence. Max Meijer shares Transavia's proof of concept for giving business users direct insight into web and app data, including early wins, unexpected findings and lessons from a pilot with 15 users. The sessions also cover definitions, metrics, business logic, governance and how analytics professionals add value when self-service interfaces become more capable, followed by discussion, drinks and networking.",
+      "speakers": [
+        {
+          "name": "Max Meijer",
+          "role": "Product Owner Marketing Automation & AI",
+          "organization": "Transavia"
+        },
+        {
+          "name": "Saskia Heyster",
+          "role": "Senior Data Analyst",
+          "organization": "Digital Power"
+        }
+      ],
+      "format": "in-person",
+      "location": "Digital Power, H.J.E. Wenckebachweg 123, 1096 AM Amsterdam",
+      "registration_url": "https://ddma.nl/event/ddma-digital-analytics-meetup-from-dashboard-to-dialogue/",
+      "source_url": "https://ddma.nl/event/ddma-digital-analytics-meetup-from-dashboard-to-dialogue/"
+    },
+    {
+      "event_id": "evt-20261118-ai-agents-ran-challenge",
+      "date": "2026-11-18",
+      "start_datetime": "2026-11-18T14:00:00+01:00",
+      "end_datetime": "2026-11-18T15:00:00+01:00",
+      "name": "Introducing the AI Agents for RAN Challenge: From Diagnosis to Optimization",
+      "type": "AI Agents",
+      "summary": "Technical launch of a challenge for agents that diagnose and optimize radio-access networks.",
+      "description": "An AI for Good session introducing a technical challenge from ITU, GSMA and IEEE on building AI agents for radio-access-network operations. Participants learn how the challenge uses the Giulia network simulator and asks agents to reason over network state, call tools and solve tasks spanning fault diagnosis, outage recovery, coverage, topology and site placement, and energy-versus-performance optimization. The organizers explain the competition tracks, data and simulator workflow, evaluation criteria for accuracy and efficient simulation, and the €30,000 prize pool. The session is aimed at telecommunications researchers, ML engineers and agent builders interested in trustworthy automation for complex network infrastructure.",
+      "speakers": [
+        {
+          "name": "Nicola Piovesan",
+          "role": "Senior Researcher",
+          "organization": "Huawei Technologies Co., Ltd."
+        },
+        {
+          "name": "Zeinab Nezami",
+          "role": "AI Data Engineering Lead",
+          "organization": "GSMA"
+        }
+      ],
+      "format": "online",
+      "location": "Online via AI for Good",
+      "registration_url": "https://aiforgood.itu.int/event/introducing-the-ai-agents-for-ran-challenge-from-diagnosis-to-optimization/",
+      "source_url": "https://aiforgood.itu.int/event/introducing-the-ai-agents-for-ran-challenge-from-diagnosis-to-optimization/"
+    },
+    {
+      "event_id": "evt-20261103-esri-earth-sciences-ai-assistants",
+      "date": "2026-11-03",
+      "start_datetime": "2026-11-03T18:00:00+01:00",
+      "end_datetime": "2026-11-03T19:00:00+01:00",
+      "name": "Accelerating Earth Sciences Workflows with AI Assistants",
+      "type": "Geospatial AI",
+      "summary": "Esri webinar on AI-assisted geospatial workflows from earth observation to operational decisions.",
+      "description": "An Esri earth-sciences webinar showing how AI assistants can help teams turn observations into actionable information. The presenters cover ways to streamline data collection, improve data quality and stewardship, accelerate geospatial analysis and support operational decision-making. The programme emphasizes trusted data and AI-ready workflows and includes a demonstration that moves from observation through information extraction to decision support. It is intended for earth-science, GIS, remote-sensing and data professionals exploring practical adoption of AI in monitoring, resilience, resource management and operational workflows.",
+      "speakers": [
+        {
+          "name": "Lorraine Tighe",
+          "role": "Director of Earth Sciences Solutions",
+          "organization": "Esri"
+        },
+        {
+          "name": "Lain Graham",
+          "role": "Solution Engineering Team Lead",
+          "organization": "Esri"
+        },
+        {
+          "name": "Prentice McNair",
+          "role": "Solution Engineer",
+          "organization": "Esri"
+        },
+        {
+          "name": "Stella Meserve",
+          "role": "Solution Engineer",
+          "organization": "Esri"
+        }
+      ],
+      "format": "online",
+      "location": "Online via Esri",
+      "registration_url": "https://www.esri.com/en-us/webinars/industry/science/ai-geospatial-workflows-earth-sciences/accelerating-earth-sciences-workflows-with-ai-assistants",
+      "source_url": "https://www.esri.com/en-us/webinars/industry/science/ai-geospatial-workflows-earth-sciences/accelerating-earth-sciences-workflows-with-ai-assistants"
+    },
+    {
+      "event_id": "evt-20261105-uu-language-models-scientific-culture",
+      "date": "2026-11-05",
+      "start_datetime": "2026-11-05T15:30:00+01:00",
+      "end_datetime": "2026-11-05T16:30:00+01:00",
+      "name": "Language Models and the Homogenization of Scientific Culture",
+      "type": "Data & ML",
+      "summary": "Research lecture on how LLM use may homogenize scientific writing and complicate institutional policy.",
+      "description": "An online Utrecht University Centre for Digital Humanities lecture presenting empirical studies of how researchers use language models and how those systems may reshape scientific culture. Maria Antoniak discusses evidence from surveys, naturally occurring usage data and 81,000 papers across eleven research communities, including privacy challenges in studying real-world chat logs and differences in disciplinary conventions. Her work finds that models asked to adapt writing across fields tend to push several stylistic and rhetorical measures in the same direction, contributing to homogenization. The lecture also examines unintended consequences of institutional responses to AI-generated writing and argues for policy and tool design grounded in evidence about actual research practice.",
+      "speakers": [
+        {
+          "name": "Maria Antoniak",
+          "role": "Assistant Professor of Computer Science",
+          "organization": "University of Colorado Boulder"
+        }
+      ],
+      "format": "online",
+      "location": "Online",
+      "registration_url": "https://www.uu.nl/en/events/language-models-and-the-homogenization-of-scientific-culture",
+      "source_url": "https://www.uu.nl/en/events/language-models-and-the-homogenization-of-scientific-culture"
+    },
+    {
+      "event_id": "evt-20261105-ai-sciencepark-creative-industry",
+      "date": "2026-11-05",
+      "start_datetime": "2026-11-05T16:00:00+01:00",
+      "end_datetime": "2026-11-05T17:00:00+01:00",
+      "name": "AI at Sciencepark: The Future of AI in the Creative Industry",
+      "type": "AI Governance",
+      "summary": "Cross-disciplinary discussion on AI in animation, authorship, copyright and creative ownership.",
+      "description": "A one-hour LAB42 event bringing creative, legal and technical perspectives together to examine how AI is changing art, animation and visual storytelling. Animator and director Hisko Hulsing discusses the targeted use of AI inside traditional animation pipelines, the practical opportunities it creates and the backlash it has generated within the creative community. Daan Archer of Copyright Delta addresses copyright, authorship and ownership of AI-assisted work. The session consists of talks and an open discussion, followed by drinks, snacks and networking, and is aimed at creators, researchers, technologists and product teams whose work touches generated images, video or creative tooling.",
+      "speakers": [
+        {
+          "name": "Hisko Hulsing",
+          "role": "Animator and Director",
+          "organization": "Independent"
+        },
+        {
+          "name": "Daan Archer",
+          "role": "Copyright Specialist",
+          "organization": "Copyright Delta"
+        }
+      ],
+      "format": "in-person",
+      "location": "LAB42, room L3.36, Science Park 900, 1098 XH Amsterdam",
+      "registration_url": "https://luma.com/m133cxwh",
+      "source_url": "https://luma.com/m133cxwh"
     }
   ]
 }
