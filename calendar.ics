@@ -663,4 +663,94 @@ LOCATION:LAB42\, room L3.36\, Science Park 900\, 1098 XH Amsterdam
 DESCRIPTION:Topic: AI Governance. Price: Free\; registration required. Cross-disciplinary discussion on AI in animation\, authorship\, copyright and creative ownership. Registration: https://luma.com/m133cxwh
 URL:https://luma.com/m133cxwh
 END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261112-chemai-deep-tech-builders@amsai.events
+DTSTAMP:20261031T090000Z
+DTSTART:20261112T110000Z
+DTEND:20261112T170000Z
+SUMMARY:ChemAI x Deep Tech Builders
+LOCATION:AI House Amsterdam\, Gustav Mahlerplein 5\, 1082 MS Amsterdam
+DESCRIPTION:Topic: Data & ML. Price: No fee listed\; organizer approval required. Execution-focused conference on applying AI to chemistry\, materials discovery and increasingly autonomous laboratories. Registration: https://luma.com/aihouse-eyno
+URL:https://luma.com/aihouse-eyno
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261113-uva-ai-data-science-day@amsai.events
+DTSTAMP:20261031T090000Z
+DTSTART:20261113T120000Z
+DTEND:20261113T163000Z
+SUMMARY:AI & Data Science Day 2026 — Afternoon Programme
+LOCATION:University Library\, Vendelstraat 2-8\, 1012 XX Amsterdam
+DESCRIPTION:Topic: Data & ML. Price: No fee listed\; registration required. UvA research showcase spanning foundation models for Earth systems\, interdisciplinary AI\, faculty hubs\, posters and demonstrations. Registration: https://dsc.uva.nl/events/data-science-day/ai-data-science-day-2026-afternoon-programme.html
+URL:https://dsc.uva.nl/events/data-science-day/ai-data-science-day-2026-afternoon-programme.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261126-revodata-geoai@amsai.events
+DTSTAMP:20261031T090000Z
+DTSTART:20261126T164500Z
+DTEND:20261126T203000Z
+SUMMARY:Mapping the Future: GeoAI\, From Vision to Reality
+LOCATION:De Collectie\, Westermarkt 2\, 1016 DK Amsterdam
+DESCRIPTION:Topic: Geospatial AI. Price: Free\; limited capacity. Talks and a no-code hands-on exercise on agentic geospatial workflows and the future of GeoAI. Registration: https://revodata.nl/nl/evenementen/mapping-the-future-geoai-from-vision-to-reality/
+URL:https://revodata.nl/nl/evenementen/mapping-the-future-geoai-from-vision-to-reality/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261125-ai-native-coding-agents-memory@amsai.events
+DTSTAMP:20261031T090000Z
+DTSTART:20261125T170000Z
+DTEND:20261125T200000Z
+SUMMARY:AI-Native Engineering: Coding Agents\, Memory & Collaboration
+LOCATION:Xebia Netherlands BV\, Wibautstraat 200\, 1091 TJ Amsterdam
+DESCRIPTION:Topic: AI Agents. Price: No fee listed\; RSVP required. Technical talks on coding-agent memory across sessions and adapting team collaboration to AI-accelerated development. Registration: https://www.meetup.com/nl-nl/ai-native-amsterdam/events/316566571/
+URL:https://www.meetup.com/nl-nl/ai-native-amsterdam/events/316566571/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261119-destination-earth-living-lab@amsai.events
+DTSTAMP:20261031T090000Z
+DTSTART:20261119T083000Z
+DTEND:20261119T153000Z
+SUMMARY:Destination Earth — National DestinE Living Lab
+LOCATION:TOBACCO Theater\, Nes 75-87\, Amsterdam
+DESCRIPTION:Topic: Geospatial AI. Price: Free\; registration required. National programme on Earth digital twins\, Copernicus data and AI-enabled climate\, weather and spatial applications. Registration: https://www.nlsa.nl/evenementen/destination-earth/
+URL:https://www.nlsa.nl/evenementen/destination-earth/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261126-aica-summit@amsai.events
+DTSTAMP:20261031T090000Z
+DTSTART:20261126T080000Z
+DTEND:20261126T183000Z
+SUMMARY:AICA Summit 2026: The Age of Collective Intelligence
+LOCATION:KIT Amsterdam\, Mauritskade 63\, Amsterdam
+DESCRIPTION:Topic: Data & ML. Price: €200 excluding fees. Technical summit on the complete AI systems stack\, from model serving and memory to accelerators\, interconnects and formal verification. Registration: https://sales.ticketing.cm.com/aicasummit2026/en-gb/1dba0f96-31a8-4c5a-b605-608928da85e0
+URL:https://sales.ticketing.cm.com/aicasummit2026/en-gb/1dba0f96-31a8-4c5a-b605-608928da85e0
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261126-ellis-research-community-retreat@amsai.events
+DTSTAMP:20261031T090000Z
+DTSTART:20261126T124000Z
+DTEND:20261126T180000Z
+SUMMARY:ELLIS Research and Community Retreat
+LOCATION:LAB42\, Amsterdam Science Park\, Amsterdam
+DESCRIPTION:Topic: Data & ML. Price: No fee listed\; registration required. Academic AI retreat featuring physical AI\, ELLIS alumni research\, Dutch ecosystem discussion and a pre-NeurIPS poster session. Registration: https://ivi.fnwi.uva.nl/ellis/events/ellis-research-and-community-retreat-connecting-ai-talent-research-impact/
+URL:https://ivi.fnwi.uva.nl/ellis/events/ellis-research-and-community-retreat-connecting-ai-talent-research-impact/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261119-ewuu-explainable-llm-reasoning@amsai.events
+DTSTAMP:20261031T090000Z
+DTSTART:20261119T111500Z
+DTEND:20261119T120000Z
+SUMMARY:EWUU AI Lunch & Learn: Explainable LLM Reasoning
+LOCATION:Online via Microsoft Teams
+DESCRIPTION:Topic: Data & ML. Price: Free\; registration required. Utrecht research session on explaining LLM reasoning and making NLP systems more transparent\, reliable and responsible. Registration: https://students.uu.nl/en/events/ewuu-artificial-intelligence-lunch-learn
+URL:https://students.uu.nl/en/events/ewuu-artificial-intelligence-lunch-learn
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261112-microsoft-agent-365-governance@amsai.events
+DTSTAMP:20261031T090000Z
+DTSTART:20261112T170000Z
+DTEND:20261112T180000Z
+SUMMARY:Governing IQ-Powered Agents in Production with Agent 365
+LOCATION:Online via Microsoft Reactor
+DESCRIPTION:Topic: AI Agents. Price: No fee listed\; registration required. Microsoft Reactor session on production visibility\, policy enforcement and lifecycle governance for enterprise agents. Registration: https://reactor.microsoft.com/en-us/reactor/events/27457/
+URL:https://reactor.microsoft.com/en-us/reactor/events/27457/
+END:VEVENT
 END:VCALENDAR
