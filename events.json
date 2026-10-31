@@ -960,6 +960,283 @@
       "location": "LAB42, room L3.36, Science Park 900, 1098 XH Amsterdam",
       "registration_url": "https://luma.com/m133cxwh",
       "source_url": "https://luma.com/m133cxwh"
+    },
+    {
+      "event_id": "evt-20261112-chemai-deep-tech-builders",
+      "date": "2026-11-12",
+      "start_datetime": "2026-11-12T12:00:00+01:00",
+      "end_datetime": "2026-11-12T18:00:00+01:00",
+      "name": "ChemAI x Deep Tech Builders",
+      "type": "Data & ML",
+      "summary": "Execution-focused conference on applying AI to chemistry, materials discovery and increasingly autonomous laboratories.",
+      "description": "Day one of the ChemAI conference brings founders, investors, corporate leaders, policymakers and academics together around the shift from intuition-led chemistry and materials research toward predictive design and increasingly autonomous laboratories. The programme is explicitly weighted toward execution rather than vision and covers company building, industrial adoption and strategic investment in AI-enabled discovery. Speakers span CuspAI, IMEC, Techleap, Prosus, VSParticle, ATLANT 3D, Planck Technologies, Matterstack.ai and TOPSOE, followed by an investor panel led by Hello Tomorrow. The gathering is designed for people building, funding or deploying deep-tech systems at the intersection of AI, chemistry and materials science. Attendance is capacity-limited and subject to organizer approval.",
+      "speakers": [
+        {
+          "name": "Max Welling",
+          "role": "CTO",
+          "organization": "CuspAI"
+        },
+        {
+          "name": "Steven Latré",
+          "role": "VP of AI",
+          "organization": "IMEC"
+        },
+        {
+          "name": "Greg de Temmerman",
+          "role": "Director Deeptech",
+          "organization": "Techleap"
+        },
+        {
+          "name": "Dmitri Jarnikov",
+          "role": "Senior Director Data Science",
+          "organization": "Prosus"
+        },
+        {
+          "name": "Aaike van Vugt",
+          "role": "CEO",
+          "organization": "VSParticle"
+        },
+        {
+          "name": "Maksym Plakhotnyuk",
+          "role": "CEO",
+          "organization": "ATLANT 3D"
+        },
+        {
+          "name": "Maryam Ghadrdan",
+          "role": "CEO",
+          "organization": "Planck Technologies"
+        },
+        {
+          "name": "Stefano Martiniani",
+          "role": "Co-founder",
+          "organization": "Matterstack.ai / NYU"
+        },
+        {
+          "name": "Hanne Falsig",
+          "role": "Scientist",
+          "organization": "TOPSOE"
+        },
+        {
+          "name": "Yoram Wijngaarde",
+          "role": "Founder & CEO",
+          "organization": "Dealroom"
+        },
+        {
+          "name": "Johan Stins",
+          "role": "Senior Investment Manager",
+          "organization": "Invest-NL"
+        },
+        {
+          "name": "Johannes Triebs",
+          "role": "Partner",
+          "organization": "U2V VC"
+        }
+      ],
+      "format": "in-person",
+      "location": "AI House Amsterdam, Gustav Mahlerplein 5, 1082 MS Amsterdam",
+      "registration_url": "https://luma.com/aihouse-eyno",
+      "source_url": "https://luma.com/aihouse-eyno"
+    },
+    {
+      "event_id": "evt-20261113-uva-ai-data-science-day",
+      "date": "2026-11-13",
+      "start_datetime": "2026-11-13T13:00:00+01:00",
+      "end_datetime": "2026-11-13T17:30:00+01:00",
+      "name": "AI & Data Science Day 2026 — Afternoon Programme",
+      "type": "Data & ML",
+      "summary": "UvA research showcase spanning foundation models for Earth systems, interdisciplinary AI, faculty hubs, posters and demonstrations.",
+      "description": "The University of Amsterdam Data Science Centre's afternoon programme showcases the breadth of AI and data-science research across the university. It opens with a plenary keynote by Ana Lucic on foundation models for Earth-system modelling, followed by short presentations from interdisciplinary PhD researchers and a showcase of the Centre's seven faculty hubs. The second half moves into an expo format with posters, demonstrations and networking drinks, covering both foundational methods and applied projects addressing societal challenges. The event is intended to connect researchers, students and practitioners, build shared research direction and stimulate collaboration across disciplines and technical skill sets.",
+      "speakers": [
+        {
+          "name": "Ana Lucic",
+          "role": "Professor and keynote speaker",
+          "organization": "University of Amsterdam"
+        },
+        {
+          "name": "Stefanie Boss",
+          "role": "Interdisciplinary PhD speaker",
+          "organization": "University of Amsterdam"
+        },
+        {
+          "name": "Niklas Müller",
+          "role": "Interdisciplinary PhD speaker",
+          "organization": "University of Amsterdam"
+        },
+        {
+          "name": "Owen Kapelle",
+          "role": "Interdisciplinary PhD speaker",
+          "organization": "University of Amsterdam"
+        },
+        {
+          "name": "Zeyu Zhang",
+          "role": "Interdisciplinary PhD speaker",
+          "organization": "University of Amsterdam"
+        },
+        {
+          "name": "Jacobus Dijkman",
+          "role": "Interdisciplinary PhD speaker",
+          "organization": "University of Amsterdam"
+        }
+      ],
+      "format": "in-person",
+      "location": "University Library, Vendelstraat 2-8, 1012 XX Amsterdam",
+      "registration_url": "https://dsc.uva.nl/events/data-science-day/ai-data-science-day-2026-afternoon-programme.html",
+      "source_url": "https://dsc.uva.nl/events/data-science-day/ai-data-science-day-2026-afternoon-programme.html"
+    },
+    {
+      "event_id": "evt-20261126-revodata-geoai",
+      "date": "2026-11-26",
+      "start_datetime": "2026-11-26T17:45:00+01:00",
+      "end_datetime": "2026-11-26T21:30:00+01:00",
+      "name": "Mapping the Future: GeoAI, From Vision to Reality",
+      "type": "Geospatial AI",
+      "summary": "Talks and a no-code hands-on exercise on agentic geospatial workflows and the future of GeoAI.",
+      "description": "A community evening for GIS specialists, geospatial analysts, researchers, product teams and data professionals exploring how AI agents can work with maps and location data. Speakers from Databricks and Provincie Zuid-Holland discuss the direction of the geospatial market, the platforms enabling AI-driven spatial work and practical public-sector applications. After the talks and questions, participants complete a guided, no-code exercise built around an agentic geospatial use case. The programme includes pizza and networking and is designed to give attendees practical ideas they can apply to day-to-day geospatial work without requiring prior Databricks or programming experience.",
+      "speakers": [
+        {
+          "name": "Rodrigo Martins",
+          "role": "Speaker",
+          "organization": "Databricks"
+        },
+        {
+          "name": "Thijs Oosterhuis",
+          "role": "Speaker",
+          "organization": "Provincie Zuid-Holland"
+        }
+      ],
+      "format": "in-person",
+      "location": "De Collectie, Westermarkt 2, 1016 DK Amsterdam",
+      "registration_url": "https://revodata.nl/nl/evenementen/mapping-the-future-geoai-from-vision-to-reality/",
+      "source_url": "https://revodata.nl/nl/evenementen/mapping-the-future-geoai-from-vision-to-reality/"
+    },
+    {
+      "event_id": "evt-20261125-ai-native-coding-agents-memory",
+      "date": "2026-11-25",
+      "start_datetime": "2026-11-25T18:00:00+01:00",
+      "end_datetime": "2026-11-25T21:00:00+01:00",
+      "name": "AI-Native Engineering: Coding Agents, Memory & Collaboration",
+      "type": "AI Agents",
+      "summary": "Technical talks on coding-agent memory across sessions and adapting team collaboration to AI-accelerated development.",
+      "description": "The final 2026 edition of AI Native Netherlands examines two practical challenges in AI-assisted software engineering. Vladislav Ramazaev looks inside real coding-agent sessions to separate session history from persistent memory, explain what survives context compaction and show how decontextualized observations can become harmful; Claude Code is the main example, with focused comparisons to Codex and Pi. Alexander Fisher then explores how engineering teams can adapt responsibilities, shared standards and processes as individual developers become more capable with AI. The evening includes food, two talks, open discussion and networking and is aimed at software and AI engineers, data engineers, architects, technical leads and engineering managers.",
+      "speakers": [
+        {
+          "name": "Vladislav Ramazaev",
+          "role": "Senior Software Engineer",
+          "organization": "BlueDolphin"
+        },
+        {
+          "name": "Alexander Fisher",
+          "role": "Data professional",
+          "organization": "Xebia"
+        }
+      ],
+      "format": "in-person",
+      "location": "Xebia Netherlands BV, Wibautstraat 200, 1091 TJ Amsterdam",
+      "registration_url": "https://www.meetup.com/nl-nl/ai-native-amsterdam/events/316566571/",
+      "source_url": "https://www.meetup.com/nl-nl/ai-native-amsterdam/events/316566571/"
+    },
+    {
+      "event_id": "evt-20261119-destination-earth-living-lab",
+      "date": "2026-11-19",
+      "start_datetime": "2026-11-19T09:30:00+01:00",
+      "end_datetime": "2026-11-19T16:30:00+01:00",
+      "name": "Destination Earth — National DestinE Living Lab",
+      "type": "Geospatial AI",
+      "summary": "National programme on Earth digital twins, Copernicus data and AI-enabled climate, weather and spatial applications.",
+      "description": "A full-day Dutch Destination Earth living lab focused on turning European Earth-observation and digital-twin infrastructure into practical applications. Contributors from the European Space Agency, ECMWF, EUMETSAT, KNMI and Dutch user organizations cover the DestinE platform, Copernicus and satellite data, weather and climate modelling, and decision support for challenges such as extreme weather, urban heat, agriculture and energy. The programme combines presentations and implementation-oriented workshops so researchers, public-sector teams, geospatial practitioners and data professionals can understand the available services, explore real use cases and identify how to integrate DestinE capabilities into their own work.",
+      "speakers": [],
+      "format": "in-person",
+      "location": "TOBACCO Theater, Nes 75-87, Amsterdam",
+      "registration_url": "https://www.nlsa.nl/evenementen/destination-earth/",
+      "source_url": "https://www.nlsa.nl/evenementen/destination-earth/"
+    },
+    {
+      "event_id": "evt-20261126-aica-summit",
+      "date": "2026-11-26",
+      "start_datetime": "2026-11-26T09:00:00+01:00",
+      "end_datetime": "2026-11-26T19:30:00+01:00",
+      "name": "AICA Summit 2026: The Age of Collective Intelligence",
+      "type": "Data & ML",
+      "summary": "Technical summit on the complete AI systems stack, from model serving and memory to accelerators, interconnects and formal verification.",
+      "description": "A builder- and researcher-focused summit covering the full AI systems stack from models and software to compute, memory and chips, with open source central to the programme. Technical sessions examine inference economics, KV-cache management, routing and cost per token; HBM4, CXL, processing-in-memory and high-bandwidth flash; training failures at scale; RISC-V, accelerator architectures and optical interconnects; and current ML systems research. Hands-on elements include kernel optimization, a RISC-V inference tutorial and an agentic RTL challenge evaluated through simulation and formal equivalence. The day also includes production engineering papers, research previews, working-system demonstrations and debates about scaling, energy, trust and the economics of the AI infrastructure cycle.",
+      "speakers": [],
+      "format": "in-person",
+      "location": "KIT Amsterdam, Mauritskade 63, Amsterdam",
+      "registration_url": "https://sales.ticketing.cm.com/aicasummit2026/en-gb/1dba0f96-31a8-4c5a-b605-608928da85e0",
+      "source_url": "https://aica-summit.com/our-program/"
+    },
+    {
+      "event_id": "evt-20261126-ellis-research-community-retreat",
+      "date": "2026-11-26",
+      "start_datetime": "2026-11-26T13:40:00+01:00",
+      "end_datetime": "2026-11-26T19:00:00+01:00",
+      "name": "ELLIS Research and Community Retreat",
+      "type": "Data & ML",
+      "summary": "Academic AI retreat featuring physical AI, ELLIS alumni research, Dutch ecosystem discussion and a pre-NeurIPS poster session.",
+      "description": "The ELLIS Unit Amsterdam brings its research community, alumni, students and industry partners together to connect AI talent, research and impact. The tentative programme features a keynote by physical-AI professor and ELLIS Fellow Efstratios Gavves, talks from ELLIS PhD researchers and alumni working across academia and industry, updates on ELLIS initiatives and a panel on the future of AI and the Dutch ecosystem. The afternoon closes with networking drinks and a pre-NeurIPS poster session, giving participants a venue to exchange ideas, discover current work and identify opportunities for collaboration between research and practice.",
+      "speakers": [
+        {
+          "name": "Efstratios Gavves",
+          "role": "Professor of Physical AI and ELLIS Fellow",
+          "organization": "University of Amsterdam"
+        }
+      ],
+      "format": "in-person",
+      "location": "LAB42, Amsterdam Science Park, Amsterdam",
+      "registration_url": "https://ivi.fnwi.uva.nl/ellis/events/ellis-research-and-community-retreat-connecting-ai-talent-research-impact/",
+      "source_url": "https://ivi.fnwi.uva.nl/ellis/events/ellis-research-and-community-retreat-connecting-ai-talent-research-impact/"
+    },
+    {
+      "event_id": "evt-20261119-ewuu-explainable-llm-reasoning",
+      "date": "2026-11-19",
+      "start_datetime": "2026-11-19T12:15:00+01:00",
+      "end_datetime": "2026-11-19T13:00:00+01:00",
+      "name": "EWUU AI Lunch & Learn: Explainable LLM Reasoning",
+      "type": "Data & ML",
+      "summary": "Utrecht research session on explaining LLM reasoning and making NLP systems more transparent, reliable and responsible.",
+      "description": "An online EWUU Artificial Intelligence Lunch & Learn introducing current research on how large language models reason and whether those reasoning processes can be explained. The first talk considers factual and fictional language processing in the GenAI era; the main session examines progress toward explainable LLM reasoning and the limitations that remain. The researchers connect computational linguistics, model evaluation, cognitive science, health applications and responsible AI, then invite discussion about challenges and opportunities for collaboration. The session is intended for researchers, students and practitioners interested in transparent, reliable and human-centred language technologies.",
+      "speakers": [
+        {
+          "name": "Robert Bagheri",
+          "role": "Associate Professor of Natural Language Processing",
+          "organization": "Utrecht University"
+        },
+        {
+          "name": "Amirhossein Mohammadi",
+          "role": "PhD Candidate",
+          "organization": "Utrecht University"
+        },
+        {
+          "name": "Ruurd Kuiper",
+          "role": "Assistant Professor",
+          "organization": "UMC Utrecht"
+        }
+      ],
+      "format": "online",
+      "location": "Online via Microsoft Teams",
+      "registration_url": "https://students.uu.nl/en/events/ewuu-artificial-intelligence-lunch-learn",
+      "source_url": "https://students.uu.nl/en/events/ewuu-artificial-intelligence-lunch-learn"
+    },
+    {
+      "event_id": "evt-20261112-microsoft-agent-365-governance",
+      "date": "2026-11-12",
+      "start_datetime": "2026-11-12T18:00:00+01:00",
+      "end_datetime": "2026-11-12T19:00:00+01:00",
+      "name": "Governing IQ-Powered Agents in Production with Agent 365",
+      "type": "AI Agents",
+      "summary": "Microsoft Reactor session on production visibility, policy enforcement and lifecycle governance for enterprise agents.",
+      "description": "A Microsoft Reactor livestream on operating and governing IQ-powered agents after they move from development into real-world use. The session explains the production challenges created by autonomous systems, including visibility into agent behavior, consistent policy enforcement and lifecycle management. It shows how Agent 365 works alongside the Microsoft IQ stack to monitor, manage and govern agents at scale while maintaining security, trust and operational control. The content is aimed at developers, architects and platform teams responsible for deploying and supervising enterprise agent systems.",
+      "speakers": [
+        {
+          "name": "Srikumar Nair",
+          "role": "Principal Group Product Manager on Microsoft Dataverse",
+          "organization": "Microsoft"
+        }
+      ],
+      "format": "online",
+      "location": "Online via Microsoft Reactor",
+      "registration_url": "https://reactor.microsoft.com/en-us/reactor/events/27457/",
+      "source_url": "https://reactor.microsoft.com/en-us/reactor/events/27457/"
     }
   ]
 }
