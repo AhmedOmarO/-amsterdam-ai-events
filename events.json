@@ -1237,6 +1237,218 @@
       "location": "Online via Microsoft Reactor",
       "registration_url": "https://reactor.microsoft.com/en-us/reactor/events/27457/",
       "source_url": "https://reactor.microsoft.com/en-us/reactor/events/27457/"
+    },
+    {
+      "event_id": "evt-20261109-verifiable-ai-analytics-agent",
+      "date": "2026-11-09",
+      "start_datetime": "2026-11-09T14:30:00+01:00",
+      "end_datetime": "2026-11-09T15:30:00+01:00",
+      "name": "Answers you can question: Building a verifiable AI analytics agent",
+      "type": "AI Agents",
+      "summary": "Practical session on building analytics agents whose warehouse answers remain verifiable.",
+      "description": "DataTalks.Club hosts Alex Litvinov for a practical account of building an analytics agent at Manychat. The session explains why connecting an agent directly to a data warehouse is unreliable, what context layers should sit between the agent and business data, and how those layers must stay current as definitions and operations change. It covers making answers traceable and verifiable, retaining a human in the loop, observed results and limitations, and patterns attendees can apply when building their own analytics agents.",
+      "speakers": [
+        {
+          "name": "Alex Litvinov",
+          "role": "Data Engineer",
+          "organization": "Manychat"
+        }
+      ],
+      "format": "online",
+      "location": "Online via YouTube",
+      "registration_url": "https://luma.com/9y6qc72e",
+      "source_url": "https://luma.com/9y6qc72e"
+    },
+    {
+      "event_id": "evt-20261111-nlpu-meeting",
+      "date": "2026-11-11",
+      "start_datetime": "2026-11-11T09:00:00+01:00",
+      "end_datetime": "2026-11-11T13:00:00+01:00",
+      "name": "NLP@U Meeting",
+      "type": "Data & ML",
+      "summary": "Utrecht NLP research meeting with a keynote, short research pitches, discussion and team updates.",
+      "description": "The 2026–2027 period-one NLP@U meeting is hosted by Utrecht University's Faculty of Humanities. The morning combines coffee and an invited-researcher keynote, followed by team updates and a structured pitches-and-discussion segment in which selected participants briefly introduce an idea or debate topic before a longer group discussion. The programme closes with lunch and informal exchange, giving NLP researchers and practitioners a compact forum for sharing current work and finding collaborators. The invited keynote speaker had not yet been announced when the listing was verified.",
+      "speakers": [],
+      "format": "in_person",
+      "location": "University Library City Centre, room E.0.21, Utrecht",
+      "registration_url": "https://www.uu.nl/en/events/nlpu-meeting",
+      "source_url": "https://www.uu.nl/en/events/nlpu-meeting"
+    },
+    {
+      "event_id": "evt-20261111-utrecht-jug-agentic-legacy",
+      "date": "2026-11-11",
+      "start_datetime": "2026-11-11T17:30:00+01:00",
+      "end_datetime": "2026-11-11T22:00:00+01:00",
+      "name": "Utrecht JUG: Java Security & Agentic AI in Legacy Modernization",
+      "type": "AI Agents",
+      "summary": "Technical meetup on post-quantum Java security and a production agentic-AI legacy-modernization case study.",
+      "description": "Utrecht Java User Group meets at PSG Technauts for an engineering-focused evening that begins with food and networking and then moves into two detailed technical sessions. Ana Maria Mihalceanu demonstrates Java security approaches for the quantum era, including HPKE, post-quantum hybrid key exchange in TLS 1.3, key and certificate handling with keytool, and runtime inspection using JDK Flight Recorder. Marek Dominiak then presents a production case study in modernizing a Java monolith of more than two million lines with agentic AI: how agents analysed and decomposed a risky indexing rewrite, why the first release failed, how the team recovered, and which safeguards—controlled context, explicit instructions, tests, review, monitoring, rollback and security checks—made the later version succeed. The session is aimed at developers and architects who want evidence-based practices rather than an AI success story without failure analysis.",
+      "speakers": [
+        {
+          "name": "Ana Maria Mihalceanu",
+          "role": "Senior Developer Advocate, Java Platform Group",
+          "organization": "Oracle"
+        },
+        {
+          "name": "Marek Dominiak",
+          "role": "CTO, architect and tech lead",
+          "organization": "Sparkbyte Solutions / Trainitek / Mintra"
+        }
+      ],
+      "format": "in_person",
+      "location": "PSG Technauts, Nevelgaarde 20G, 3436 ZZ Nieuwegein",
+      "registration_url": "https://www.meetup.com/nl-nl/utrecht-java-user-group/events/317133451/",
+      "source_url": "https://www.meetup.com/nl-nl/utrecht-java-user-group/events/317133451/"
+    },
+    {
+      "event_id": "evt-20261112-aaif-scaling-discovery-forgetting",
+      "date": "2026-11-12",
+      "start_datetime": "2026-11-12T18:00:00+01:00",
+      "end_datetime": "2026-11-12T19:00:00+01:00",
+      "name": "AAIF Reading Group: Scaling Discovery Requires Forgetting",
+      "type": "AI Agents",
+      "summary": "Research discussion on improving long-running agents by resetting context while retaining the best candidate.",
+      "description": "The Agentic AI Foundation reading group examines research on why autonomous discovery agents plateau as they accumulate previous attempts, candidate solutions and long histories that anchor later reasoning. Sparsh Jain presents an approach that periodically resets an agent's session and search history while preserving the strongest candidate found so far, including experimental comparisons with parallel and single-agent baselines. Arthur Coleman then leads an interactive Q&A on what agents should remember, what they should discard, when resets are useful, and the implications for building more capable research and multi-agent systems. The format is a paper presentation followed by community discussion.",
+      "speakers": [
+        {
+          "name": "Sparsh Jain",
+          "role": "Tech & AI",
+          "organization": "CentralAgent AI"
+        },
+        {
+          "name": "Arthur Coleman",
+          "role": "CEO",
+          "organization": "Online Matters"
+        },
+        {
+          "name": "Demetrios Brinkmann",
+          "role": "Chief Happiness Engineer",
+          "organization": "MLOps Community"
+        }
+      ],
+      "format": "online",
+      "location": "Online",
+      "registration_url": "https://home.mlops.community/public/events/aaif-reading-group-scaling-discovery-requires-forgetting-pg1zmi4qzx",
+      "source_url": "https://home.mlops.community/public/events/aaif-reading-group-scaling-discovery-requires-forgetting-pg1zmi4qzx"
+    },
+    {
+      "event_id": "evt-20261113-telcoretrieve-challenge",
+      "date": "2026-11-13",
+      "start_datetime": "2026-11-13T14:00:00+01:00",
+      "end_datetime": "2026-11-13T15:00:00+01:00",
+      "name": "TelcoRetrieve Challenge: Grounding LLMs in Telecom Standards",
+      "type": "Data & ML",
+      "summary": "Technical launch of an open RAG challenge for cited, standards-grounded telecom answers.",
+      "description": "AI for Good and its partners introduce the TelcoRetrieve Challenge, an open competition for retrieval-augmented generation systems that ground answers in telecommunications standards and cite the supporting specification text. The webinar explains the vendor-neutral pipeline and pre-vectorized dataset spanning sources such as 3GPP, ITU-T and TM Forum. It covers two tracks—pipeline optimization through chunking, retrieval and reranking, and model improvement through fine-tuning the generator and domain embedder—plus public-leaderboard and held-out evaluation on accuracy, cost and latency. Participants also learn the submission process, the USD 15,000 prize structure and expectations for intermediate-to-advanced RAG or LLM fine-tuning experience.",
+      "speakers": [
+        {
+          "name": "Zeinab Nezami",
+          "role": "AI Data Engineering Lead",
+          "organization": "GSMA"
+        },
+        {
+          "name": "Jiaying Meng",
+          "role": "Consultant and moderator",
+          "organization": "International Telecommunication Union"
+        },
+        {
+          "name": "Vishnu Ram OV",
+          "role": "Independent Research Consultant and moderator",
+          "organization": "International Telecommunication Union"
+        }
+      ],
+      "format": "online",
+      "location": "Online via AI for Good",
+      "registration_url": "https://aiforgood.itu.int/event/telcoretrieve-challenge-grounding-large-language-models-llms-in-telecom-standards/",
+      "source_url": "https://aiforgood.itu.int/event/telcoretrieve-challenge-grounding-large-language-models-llms-in-telecom-standards/"
+    },
+    {
+      "event_id": "evt-20261114-satellite-land-use-biodiversity",
+      "date": "2026-11-14",
+      "start_datetime": "2026-11-14T05:00:00+01:00",
+      "end_datetime": "2026-11-14T06:30:00+01:00",
+      "name": "Satellite-Based Land-Use Change and Biodiversity Monitoring in India",
+      "type": "Geospatial AI",
+      "summary": "ISRO-led webinar connecting operational Earth observation with biodiversity and climate-policy decisions.",
+      "description": "This EO&GEO webinar connects operational satellite monitoring with environmental decision-making across India and wider Asia. Dr. Sudhakar Reddy Chintala presents advances and practical applications in satellite-based forest and biodiversity monitoring, while Dr. Rajarshi Dasgupta shows how geospatial evidence supports landscape planning, climate mitigation and adaptation, conservation and disaster-risk reduction. Chaired by Dr. Parth Sarathi Roy, the programme includes two technical presentations, audience Q&A and a closing synthesis focused on turning Earth-observation outputs into credible, timely policy action for rapidly changing land-use and ecological conditions.",
+      "speakers": [
+        {
+          "name": "Dr. Parth Sarathi Roy",
+          "role": "Chair and senior Earth-observation scientist",
+          "organization": "Indian Institute of Remote Sensing, ISRO"
+        },
+        {
+          "name": "Dr. Sudhakar Reddy Chintala",
+          "role": "Scientist-SG and Head, Forest Biodiversity and Ecology Division",
+          "organization": "National Remote Sensing Centre, ISRO"
+        },
+        {
+          "name": "Dr. Rajarshi Dasgupta",
+          "role": "Researcher in geospatial science and environmental policy",
+          "organization": "Indian Institute of Technology Delhi"
+        }
+      ],
+      "format": "online",
+      "location": "Online via Zoom",
+      "registration_url": "https://sciforum.net/event/Topics-55/home",
+      "source_url": "https://sciforum.net/event/Topics-55/home"
+    },
+    {
+      "event_id": "evt-20261116-production-ai-agents-generative-media",
+      "date": "2026-11-16",
+      "start_datetime": "2026-11-16T17:00:00+01:00",
+      "end_datetime": "2026-11-16T18:00:00+01:00",
+      "name": "Production AI Agents for Generative Media: Course Launch",
+      "type": "AI Agents",
+      "summary": "Launch of a free project course on deploying and evaluating agents that orchestrate GPU media models.",
+      "description": "DataTalks.Club launches a free, open-source and project-based course in which participants build a production system where AI agents orchestrate GPU-powered image, video and audio models on Nebius Serverless AI. The live stream explains the four-module, five-week structure, homework, capstone, learning platform and community support. It introduces the first module—from scripted media generation through containers and GPU jobs—and previews later work on agent workflows, batch scaling, evaluation, optimization and monitoring. The session includes a live orientation and Q&A for engineers and data practitioners considering the course.",
+      "speakers": [
+        {
+          "name": "Alexey Grigorev",
+          "role": "Founder and course creator",
+          "organization": "DataTalks.Club"
+        },
+        {
+          "name": "Mikhail Rozhkov",
+          "role": "Senior Product Manager, Serverless AI",
+          "organization": "Nebius"
+        },
+        {
+          "name": "Marouane Khoukh",
+          "role": "AI Engineer, Developer Relations",
+          "organization": "Nebius"
+        },
+        {
+          "name": "Aleksandr Iziumov",
+          "role": "Staff Customer Engineer, AI & Agentic",
+          "organization": "Nebius"
+        }
+      ],
+      "format": "online",
+      "location": "Online via YouTube",
+      "registration_url": "https://luma.com/xey7h50c",
+      "source_url": "https://luma.com/xey7h50c"
+    },
+    {
+      "event_id": "evt-20261117-ai-memory-hive-mind",
+      "date": "2026-11-17",
+      "start_datetime": "2026-11-17T18:00:00+01:00",
+      "end_datetime": "2026-11-17T19:00:00+01:00",
+      "name": "Building AI Memory: From a Local Robot to a 1,000-Fly Hive Mind",
+      "type": "AI Agents",
+      "summary": "Live Qdrant demonstration of writing, retrieving, sharing and forgetting memory across agent systems.",
+      "description": "ODSC AI hosts a free technical webinar with Dylan Couzon of Qdrant on designing memory for both a fully local robot and a distributed system of one thousand cooperating fly agents. Using live systems and code, the session follows memory from the first stored observation through retrieval, reuse and sharing across agents. It examines which experiences should be written, when memories should be retrieved or shared, how to scope common memory, when forgetting improves behaviour, and what changes when the whole system runs on-device. The audience includes AI engineers, software developers, data scientists and technical leaders working with agents, retrieval systems or robotics.",
+      "speakers": [
+        {
+          "name": "Dylan Couzon",
+          "role": "Lead Developer Relations",
+          "organization": "Qdrant"
+        }
+      ],
+      "format": "online",
+      "location": "Online via StreamYard",
+      "registration_url": "https://luma.com/odscai-jzxx",
+      "source_url": "https://luma.com/odscai-jzxx"
     }
   ]
 }

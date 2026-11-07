@@ -753,4 +753,84 @@ LOCATION:Online via Microsoft Reactor
 DESCRIPTION:Topic: AI Agents. Price: No fee listed\; registration required. Microsoft Reactor session on production visibility\, policy enforcement and lifecycle governance for enterprise agents. Registration: https://reactor.microsoft.com/en-us/reactor/events/27457/
 URL:https://reactor.microsoft.com/en-us/reactor/events/27457/
 END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261109-verifiable-ai-analytics-agent@amsai.events
+DTSTAMP:20261107T220000Z
+DTSTART:20261109T133000Z
+DTEND:20261109T143000Z
+SUMMARY:Answers you can question: Building a verifiable AI analytics agent
+LOCATION:Online via YouTube
+DESCRIPTION:Topic: AI Agents. Price: No fee listed. Practical session on building analytics agents whose warehouse answers remain verifiable. Registration: https://luma.com/9y6qc72e
+URL:https://luma.com/9y6qc72e
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261111-nlpu-meeting@amsai.events
+DTSTAMP:20261107T220000Z
+DTSTART:20261111T080000Z
+DTEND:20261111T120000Z
+SUMMARY:NLP@U Meeting
+LOCATION:University Library City Centre\, room E.0.21\, Utrecht
+DESCRIPTION:Topic: Data & ML. Price: Free\; registration by email to ads@uu.nl. Utrecht NLP research meeting with a keynote\, short research pitches\, discussion and team updates. Registration: https://www.uu.nl/en/events/nlpu-meeting
+URL:https://www.uu.nl/en/events/nlpu-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261111-utrecht-jug-agentic-legacy@amsai.events
+DTSTAMP:20261107T220000Z
+DTSTART:20261111T163000Z
+DTEND:20261111T210000Z
+SUMMARY:Utrecht JUG: Java Security & Agentic AI in Legacy Modernization
+LOCATION:PSG Technauts\, Nevelgaarde 20G\, 3436 ZZ Nieuwegein
+DESCRIPTION:Topic: AI Agents. Price: No fee listed\; RSVP required. Technical meetup on post-quantum Java security and a production agentic-AI legacy-modernization case study. Registration: https://www.meetup.com/nl-nl/utrecht-java-user-group/events/317133451/
+URL:https://www.meetup.com/nl-nl/utrecht-java-user-group/events/317133451/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261112-aaif-scaling-discovery-forgetting@amsai.events
+DTSTAMP:20261107T220000Z
+DTSTART:20261112T170000Z
+DTEND:20261112T180000Z
+SUMMARY:AAIF Reading Group: Scaling Discovery Requires Forgetting
+LOCATION:Online
+DESCRIPTION:Topic: AI Agents. Price: No fee listed\; registration required. Research discussion on improving long-running agents by resetting context while retaining the best candidate. Registration: https://home.mlops.community/public/events/aaif-reading-group-scaling-discovery-requires-forgetting-pg1zmi4qzx
+URL:https://home.mlops.community/public/events/aaif-reading-group-scaling-discovery-requires-forgetting-pg1zmi4qzx
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261113-telcoretrieve-challenge@amsai.events
+DTSTAMP:20261107T220000Z
+DTSTART:20261113T130000Z
+DTEND:20261113T140000Z
+SUMMARY:TelcoRetrieve Challenge: Grounding LLMs in Telecom Standards
+LOCATION:Online via AI for Good
+DESCRIPTION:Topic: Data & ML. Price: No fee listed\; registration required. Technical launch of an open RAG challenge for cited\, standards-grounded telecom answers. Registration: https://aiforgood.itu.int/event/telcoretrieve-challenge-grounding-large-language-models-llms-in-telecom-standards/
+URL:https://aiforgood.itu.int/event/telcoretrieve-challenge-grounding-large-language-models-llms-in-telecom-standards/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261114-satellite-land-use-biodiversity@amsai.events
+DTSTAMP:20261107T220000Z
+DTSTART:20261114T040000Z
+DTEND:20261114T053000Z
+SUMMARY:Satellite-Based Land-Use Change and Biodiversity Monitoring in India
+LOCATION:Online via Zoom
+DESCRIPTION:Topic: Geospatial AI. Price: Free\; registration required. ISRO-led webinar connecting operational Earth observation with biodiversity and climate-policy decisions. Registration: https://sciforum.net/event/Topics-55/home
+URL:https://sciforum.net/event/Topics-55/home
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261116-production-ai-agents-generative-media@amsai.events
+DTSTAMP:20261107T220000Z
+DTSTART:20261116T160000Z
+DTEND:20261116T170000Z
+SUMMARY:Production AI Agents for Generative Media: Course Launch
+LOCATION:Online via YouTube
+DESCRIPTION:Topic: AI Agents. Price: Free. Launch of a free project course on deploying and evaluating agents that orchestrate GPU media models. Registration: https://luma.com/xey7h50c
+URL:https://luma.com/xey7h50c
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261117-ai-memory-hive-mind@amsai.events
+DTSTAMP:20261107T220000Z
+DTSTART:20261117T170000Z
+DTEND:20261117T180000Z
+SUMMARY:Building AI Memory: From a Local Robot to a 1\,000-Fly Hive Mind
+LOCATION:Online via StreamYard
+DESCRIPTION:Topic: AI Agents. Price: Free\; pre-registration required. Live Qdrant demonstration of writing\, retrieving\, sharing and forgetting memory across agent systems. Registration: https://luma.com/odscai-jzxx
+URL:https://luma.com/odscai-jzxx
+END:VEVENT
 END:VCALENDAR
