@@ -1449,6 +1449,248 @@
       "location": "Online via StreamYard",
       "registration_url": "https://luma.com/odscai-jzxx",
       "source_url": "https://luma.com/odscai-jzxx"
+    },
+    {
+      "event_id": "evt-20261202-agentic-rag-authorization",
+      "date": "2026-12-02",
+      "start_datetime": "2026-12-02T17:45:00+01:00",
+      "end_datetime": "2026-12-02T20:30:00+01:00",
+      "name": "Building Authorization for Agentic RAG Systems",
+      "type": "AI Agents",
+      "summary": "Technical talks and a live implementation of fine-grained authorization for enterprise agentic RAG systems.",
+      "description": "An Elastic Netherlands and AuthZed meetup for engineers working with enterprise search, dashboards, retrieval systems and AI agents. The first session demonstrates AI-assisted generation of Kibana dashboards with Elastic Inference Service and explains how weak role design can expose sensitive data through polished generated reports. It provides a practical checklist for scoping roles, separating sensitive indices and testing what each user can retrieve. The main session examines authorization for agentic RAG through Google Zanzibar-style relationship-based access control, including pre-filtering and post-filtering strategies. A live coding demonstration combines Elasticsearch, LangChain and the open-source SpiceDB authorization system. The evening also includes questions, pizza and networking.",
+      "speakers": [
+        {
+          "name": "Afzaal Ahmad Zeeshan",
+          "role": "Developer Advocate",
+          "organization": "Elastic"
+        },
+        {
+          "name": "Sohan Maheshwar",
+          "role": "Lead Developer Advocate",
+          "organization": "AuthZed"
+        }
+      ],
+      "format": "In person",
+      "location": "Elasticsearch, Inc., Keizersgracht 281, Amsterdam",
+      "registration_url": "https://www.meetup.com/elastic-nl/events/317310988/",
+      "source_url": "https://www.meetup.com/elastic-nl/events/317310988/"
+    },
+    {
+      "event_id": "evt-20261208-ccss-el-nino-ml",
+      "date": "2026-12-08",
+      "start_datetime": "2026-12-08T10:00:00+01:00",
+      "end_datetime": "2026-12-10T15:00:00+01:00",
+      "name": "CCSS MasterClass: Can Machine Learning Beat the Equations? Forecasting El Niño",
+      "type": "Geospatial AI",
+      "summary": "A three-part masterclass comparing machine-learning and dynamical approaches to forecasting El Niño and extreme climate events.",
+      "description": "A three-day Utrecht University masterclass on the predictability of El Niño and what machine learning can add to equation-based climate models. The first day introduces tropical ocean-atmosphere coupling, historical forecasting approaches and barriers such as initial conditions, spring predictability and signal-to-noise limits. The second compares data-driven forecasts with simplified physical models, discusses rigorous train-validation design and asks whether predictive skill demonstrates physical understanding. The third studies extreme and out-of-distribution events through bifurcation, weather noise and causally structured modelling, examining where AI can or cannot represent these mechanisms. Each day combines a morning lecture, a free participant lunch and an afternoon tutorial or technical discussion. Participants may register for individual parts.",
+      "speakers": [
+        {
+          "name": "Dr Ioana Colfescu",
+          "role": "Digital Atmosphere Programme Leader",
+          "organization": "National Centre for Atmospheric Science and University of St Andrews"
+        }
+      ],
+      "format": "In person",
+      "location": "CCSS Living Room, Minnaertgebouw room 4.16, Utrecht",
+      "registration_url": "https://www.uu.nl/en/events/ccss-masterclass-10-can-machine-learning-beat-the-equations-forecasting-el-nino",
+      "source_url": "https://www.uu.nl/en/events/ccss-masterclass-10-can-machine-learning-beat-the-equations-forecasting-el-nino"
+    },
+    {
+      "event_id": "evt-20261209-pydata-global",
+      "date": "2026-12-09",
+      "start_datetime": "2026-12-09T12:00:00+01:00",
+      "end_datetime": "2026-12-10T22:30:00+01:00",
+      "name": "PyData Global 2026",
+      "type": "Data & ML",
+      "summary": "A two-day virtual conference for the international data-science, data-engineering and open-source scientific-computing community.",
+      "description": "PyData Global is a two-day online conference for data scientists, data engineers, developers and contributors to data-analysis tooling. The programme spans live keynotes, technical talks, tutorials and lightning sessions, with tracks covering practical machine learning, data engineering, visualization, scientific computing and open-source tools across Python, Julia, R and related ecosystems. Sessions are distributed across time zones so international attendees can join live, while community activities create opportunities to compare implementation practices and learn about emerging libraries and production use cases. The conference uses a pay-what-you-can model whose proceeds support PyData and NumFOCUS projects.",
+      "speakers": [
+        {
+          "name": "Dr Katrina Riehl",
+          "role": "Senior Engineering Manager, Python Numerical Libraries",
+          "organization": "NVIDIA"
+        }
+      ],
+      "format": "Online",
+      "location": "Online",
+      "registration_url": "https://pydata.org/global2026/",
+      "source_url": "https://pydata.org/global2026/"
+    },
+    {
+      "event_id": "evt-20261209-agentic-harnesses",
+      "date": "2026-12-09",
+      "start_datetime": "2026-12-09T17:00:00+01:00",
+      "end_datetime": "2026-12-09T21:00:00+01:00",
+      "name": "Hands-on Workshop: Agentic Harnesses, Skills, Tools & Guardrails",
+      "type": "AI Agents",
+      "summary": "A hands-on Utrecht workshop on the engineering components that make AI agents capable, efficient and reliable.",
+      "description": "A practical evening workshop focused on the agentic harness around a language model rather than introductory prompting. Participants work with the core agent loop and examine how system prompts, reusable skills, external tools, context management and guardrails interact to shape an agent's behaviour. The workshop emphasizes engineering the surrounding controls that improve capability, efficiency and reliability instead of building a basic agent from scratch. It is designed for IT professionals who want applied experience with production-oriented agent design and includes structured learning, peer discussion, dinner and drinks.",
+      "speakers": [],
+      "format": "In person",
+      "location": "Conflux, Europalaan 93, Utrecht",
+      "registration_url": "https://www.meetup.com/nl-nl/conflux-connect-the-future-of-it/events/317046523/",
+      "source_url": "https://www.meetup.com/nl-nl/conflux-connect-the-future-of-it/events/317046523/"
+    },
+    {
+      "event_id": "evt-20261209-fde-browser-workflows",
+      "date": "2026-12-09",
+      "start_datetime": "2026-12-09T18:00:00+01:00",
+      "end_datetime": "2026-12-09T21:00:00+01:00",
+      "name": "FDE Amsterdam: Making Real Browser Workflows Agent-Ready",
+      "type": "AI Agents",
+      "summary": "A practitioner meetup on making browser automation reliable, reusable and safe enough for AI agents.",
+      "description": "A small practitioner-led meetup for forward deployed engineers, solutions architects, software engineers, technical founders and other customer-facing technical roles. The programme examines how browser-based workflows can remain dependable when web pages and customer environments change, how implementations can be reused rather than rebuilt for every client, and how workflows should be structured so an AI agent can act while a person can still intervene. The main practical session is led by a Principal Forward Deployed AI Engineer at Microsoft and is followed by open questions, a short team exercise, food, drinks and networking. Attendance is free but requires host approval because the room is intentionally kept small.",
+      "speakers": [],
+      "format": "In person",
+      "location": "Brouwerij Troost, Cornelis Troostplein 21, 1072 JJ Amsterdam",
+      "registration_url": "https://luma.com/bnxfw9xb",
+      "source_url": "https://luma.com/bnxfw9xb"
+    },
+    {
+      "event_id": "evt-20261209-ms-digital-teammates",
+      "date": "2026-12-09",
+      "start_datetime": "2026-12-09T20:00:00+01:00",
+      "end_datetime": "2026-12-09T21:00:00+01:00",
+      "name": "Building Digital Teammates in Microsoft Teams",
+      "type": "AI Agents",
+      "summary": "A Microsoft Reactor session on designing and implementing collaborative agents inside Teams.",
+      "description": "The opening session of Microsoft's Beyond the Agent series explains how to design, build and run AI agents that work alongside people in Microsoft Teams. It covers collaboration patterns for chats, channels and meetings; demonstrates how to use the Teams SDK and Developer Portal to configure and run an agent; and compares Teams capabilities so builders can choose the right interaction model for each agent. The focus is on moving from standalone assistants toward digital teammates that participate in existing human workflows.",
+      "speakers": [
+        {
+          "name": "James Tyer",
+          "role": "Customer Experience PM",
+          "organization": "Microsoft"
+        },
+        {
+          "name": "Natalie Pienkowska",
+          "role": "Senior Product Manager",
+          "organization": "Microsoft"
+        },
+        {
+          "name": "Ricky Castenada",
+          "role": "Product Manager",
+          "organization": "Microsoft"
+        },
+        {
+          "name": "Umang Sehgal",
+          "role": "Senior PM Lead",
+          "organization": "Microsoft"
+        }
+      ],
+      "format": "Online",
+      "location": "Online via Microsoft Reactor",
+      "registration_url": "https://developer.microsoft.com/en-us/reactor/events/27790/",
+      "source_url": "https://developer.microsoft.com/en-us/reactor/events/27790/"
+    },
+    {
+      "event_id": "evt-20261210-ai-ml-cv-meetup",
+      "date": "2026-12-10",
+      "start_datetime": "2026-12-10T18:00:00+01:00",
+      "end_datetime": "2026-12-10T20:00:00+01:00",
+      "name": "Dec 10 — AI, ML and Computer Vision Meetup",
+      "type": "Data & ML",
+      "summary": "Four technical talks spanning model-slice evaluation, production agents, physical AI and video-language systems.",
+      "description": "An online technical meetup with four practitioner talks. The first shows how headline detection metrics can hide failures in important data slices and how to direct the next labelling budget using slice-level evaluation. The second covers production AI-agent reliability through tool-call validation, tracing, observability, failure analysis, guardrails, permissions and human review. The third demonstrates a physical-AI workflow using OpenUSD, NVIDIA Isaac Sim and Isaac Lab, moving from simulated sensors and robot policies toward sim-to-real deployment. The final talk presents prompt and evaluation patterns for schema-bound video-language outputs across long-form enterprise footage, including lessons about cost, model-version changes and difficult egocentric-video evaluation.",
+      "speakers": [
+        {
+          "name": "Amandeep Jiddewar",
+          "role": "Machine Learning Engineer",
+          "organization": "Pinterest"
+        },
+        {
+          "name": "Akshay Talathi",
+          "role": "Vice President",
+          "organization": "Goldman Sachs"
+        },
+        {
+          "name": "Arturo Morales Rangel",
+          "role": "Founder",
+          "organization": "Binary Core LLC"
+        },
+        {
+          "name": "Yash Gugale",
+          "role": "Senior Forward Deployed Engineer",
+          "organization": "TwelveLabs"
+        }
+      ],
+      "format": "Online",
+      "location": "Online via Zoom",
+      "registration_url": "https://www.meetup.com/nl-nl/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316757858/",
+      "source_url": "https://www.meetup.com/nl-nl/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316757858/"
+    },
+    {
+      "event_id": "evt-20261210-ms-build-ai-teammate",
+      "date": "2026-12-10",
+      "start_datetime": "2026-12-10T20:00:00+01:00",
+      "end_datetime": "2026-12-10T21:00:00+01:00",
+      "name": "Build Your AI Teammate in Microsoft Teams",
+      "type": "AI Agents",
+      "summary": "A hands-on Microsoft Reactor session that builds and tests a working Teams agent from a starter project.",
+      "description": "The second Beyond the Agent session is a step-by-step build focused on producing a working AI teammate in Microsoft Teams. Participants start from a project template, connect the required services, use the Teams command-line tooling to register and run the application, install the teammate into Teams and test its first conversation. The session is intended to leave attendees with a functional baseline agent they can continue extending after the livestream.",
+      "speakers": [
+        {
+          "name": "James Tyer",
+          "role": "Customer Experience PM",
+          "organization": "Microsoft"
+        },
+        {
+          "name": "Natalie Pienkowska",
+          "role": "Senior Product Manager",
+          "organization": "Microsoft"
+        },
+        {
+          "name": "Ricky Castenada",
+          "role": "Product Manager",
+          "organization": "Microsoft"
+        },
+        {
+          "name": "Umang Sehgal",
+          "role": "Senior PM Lead",
+          "organization": "Microsoft"
+        }
+      ],
+      "format": "Online",
+      "location": "Online via Microsoft Reactor",
+      "registration_url": "https://developer.microsoft.com/en-us/reactor/events/27791/",
+      "source_url": "https://developer.microsoft.com/en-us/reactor/events/27791/"
+    },
+    {
+      "event_id": "evt-20261211-ms-collaborative-ai-teammate",
+      "date": "2026-12-11",
+      "start_datetime": "2026-12-11T20:00:00+01:00",
+      "end_datetime": "2026-12-11T21:00:00+01:00",
+      "name": "Make Your AI Teammate Collaborative in Microsoft Teams",
+      "type": "AI Agents",
+      "summary": "A Microsoft Reactor session extending a one-to-one Teams agent into channels and group collaboration.",
+      "description": "The final Beyond the Agent session takes an existing one-to-one Teams agent and extends it into shared collaboration scenarios. It covers the permissions and application capabilities needed for channels and group chats, then demonstrates how an agent can use tools, adaptive cards and targeted messages to help a team act on a conversation. The emphasis is on designing human-agent workflows in which the agent becomes a useful participant in shared work rather than remaining an isolated chatbot.",
+      "speakers": [
+        {
+          "name": "James Tyer",
+          "role": "Customer Experience PM",
+          "organization": "Microsoft"
+        },
+        {
+          "name": "Natalie Pienkowska",
+          "role": "Senior Product Manager",
+          "organization": "Microsoft"
+        },
+        {
+          "name": "Ricky Castenada",
+          "role": "Product Manager",
+          "organization": "Microsoft"
+        },
+        {
+          "name": "Umang Sehgal",
+          "role": "Senior PM Lead",
+          "organization": "Microsoft"
+        }
+      ],
+      "format": "Online",
+      "location": "Online via Microsoft Reactor",
+      "registration_url": "https://developer.microsoft.com/en-us/reactor/events/27792/",
+      "source_url": "https://developer.microsoft.com/en-us/reactor/events/27792/"
     }
   ]
 }
