@@ -833,4 +833,94 @@ LOCATION:Online via StreamYard
 DESCRIPTION:Topic: AI Agents. Price: Free\; pre-registration required. Live Qdrant demonstration of writing\, retrieving\, sharing and forgetting memory across agent systems. Registration: https://luma.com/odscai-jzxx
 URL:https://luma.com/odscai-jzxx
 END:VEVENT
+BEGIN:VEVENT
+UID:agentic-rag-authorization-2026@amsai.events
+DTSTAMP:20261114T080500Z
+DTSTART:20261202T164500Z
+DTEND:20261202T193000Z
+SUMMARY:Building Authorization for Agentic RAG Systems
+LOCATION:Elasticsearch\, Inc.\, Keizersgracht 281\, Amsterdam
+DESCRIPTION:Topic: AI Agents\nPrice: No fee listed\nRegistration: https://www.meetup.com/elastic-nl/events/317310988/
+URL:https://www.meetup.com/elastic-nl/events/317310988/
+END:VEVENT
+BEGIN:VEVENT
+UID:ccss-el-nino-ml-2026@amsai.events
+DTSTAMP:20261114T080500Z
+DTSTART:20261208T090000Z
+DTEND:20261210T140000Z
+SUMMARY:CCSS MasterClass: Can Machine Learning Beat the Equations? Forecasting El Niño
+LOCATION:CCSS Living Room\, Minnaertgebouw room 4.16\, Utrecht
+DESCRIPTION:Topic: Geospatial AI\nPrice: Free\; registration required by 4 December\nRegistration: https://www.uu.nl/en/events/ccss-masterclass-10-can-machine-learning-beat-the-equations-forecasting-el-nino
+URL:https://www.uu.nl/en/events/ccss-masterclass-10-can-machine-learning-beat-the-equations-forecasting-el-nino
+END:VEVENT
+BEGIN:VEVENT
+UID:pydata-global-2026@amsai.events
+DTSTAMP:20261114T080500Z
+DTSTART:20261209T110000Z
+DTEND:20261210T213000Z
+SUMMARY:PyData Global 2026
+LOCATION:Online
+DESCRIPTION:Topic: Data & ML\nPrice: Pay what you can\nRegistration: https://pydata.org/global2026/
+URL:https://pydata.org/global2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:agentic-harnesses-2026@amsai.events
+DTSTAMP:20261114T080500Z
+DTSTART:20261209T160000Z
+DTEND:20261209T200000Z
+SUMMARY:Hands-on Workshop: Agentic Harnesses\, Skills\, Tools & Guardrails
+LOCATION:Conflux\, Europalaan 93\, Utrecht
+DESCRIPTION:Topic: AI Agents\nPrice: Free\nRegistration: https://www.meetup.com/nl-nl/conflux-connect-the-future-of-it/events/317046523/
+URL:https://www.meetup.com/nl-nl/conflux-connect-the-future-of-it/events/317046523/
+END:VEVENT
+BEGIN:VEVENT
+UID:fde-browser-workflows-2026@amsai.events
+DTSTAMP:20261114T080500Z
+DTSTART:20261209T170000Z
+DTEND:20261209T200000Z
+SUMMARY:FDE Amsterdam: Making Real Browser Workflows Agent-Ready
+LOCATION:Brouwerij Troost\, Cornelis Troostplein 21\, Amsterdam
+DESCRIPTION:Topic: AI Agents\nPrice: Free\; organizer approval required\nRegistration: https://luma.com/bnxfw9xb
+URL:https://luma.com/bnxfw9xb
+END:VEVENT
+BEGIN:VEVENT
+UID:ms-digital-teammates-2026@amsai.events
+DTSTAMP:20261114T080500Z
+DTSTART:20261209T190000Z
+DTEND:20261209T200000Z
+SUMMARY:Building Digital Teammates in Microsoft Teams
+LOCATION:Online via Microsoft Reactor
+DESCRIPTION:Topic: AI Agents\nPrice: No fee listed\; registration required\nRegistration: https://developer.microsoft.com/en-us/reactor/events/27790/
+URL:https://developer.microsoft.com/en-us/reactor/events/27790/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-ml-cv-dec10-2026@amsai.events
+DTSTAMP:20261114T080500Z
+DTSTART:20261210T170000Z
+DTEND:20261210T190000Z
+SUMMARY:Dec 10 — AI\, ML and Computer Vision Meetup
+LOCATION:Online via Zoom
+DESCRIPTION:Topic: Data & ML\nPrice: No fee listed\; registration required\nRegistration: https://www.meetup.com/nl-nl/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316757858/
+URL:https://www.meetup.com/nl-nl/amsterdam-ai-machine-learning-and-computer-vision-meetup/events/316757858/
+END:VEVENT
+BEGIN:VEVENT
+UID:ms-build-ai-teammate-2026@amsai.events
+DTSTAMP:20261114T080500Z
+DTSTART:20261210T190000Z
+DTEND:20261210T200000Z
+SUMMARY:Build Your AI Teammate in Microsoft Teams
+LOCATION:Online via Microsoft Reactor
+DESCRIPTION:Topic: AI Agents\nPrice: No fee listed\; registration required\nRegistration: https://developer.microsoft.com/en-us/reactor/events/27791/
+URL:https://developer.microsoft.com/en-us/reactor/events/27791/
+END:VEVENT
+BEGIN:VEVENT
+UID:ms-collaborative-ai-teammate-2026@amsai.events
+DTSTAMP:20261114T080500Z
+DTSTART:20261211T190000Z
+DTEND:20261211T200000Z
+SUMMARY:Make Your AI Teammate Collaborative in Microsoft Teams
+LOCATION:Online via Microsoft Reactor
+DESCRIPTION:Topic: AI Agents\nPrice: No fee listed\; registration required\nRegistration: https://developer.microsoft.com/en-us/reactor/events/27792/
+URL:https://developer.microsoft.com/en-us/reactor/events/27792/
+END:VEVENT
 END:VCALENDAR
